@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Campus Bus Arrival Time Estimator</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <div class="brand">
+        <div class="bus-badge" aria-hidden="true">
+          <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M8 6v6" />
+            <path d="M15 6v6" />
+            <path d="M2 12h19.6" />
+            <path d="M18 18h3s.5-1.7.8-2.8c.1-.4.2-.8.2-1.2 0-.4-.1-.8-.2-1.2l-1.4-5C20.1 6.8 19.1 6 18 6H4a2 2 0 0 0-2 2v10h3" />
+            <circle cx="7" cy="18" r="2" />
+            <path d="M9 18h5" />
+            <circle cx="16" cy="18" r="2" />
+          </svg>
+        </div>
+        <div>
+          <h1>Campus Bus Arrival Time Estimator</h1>
+          <p class="subtitle">Regression-based arrival prediction so students wait smarter</p>
+        </div>
+      </div>
+      <div class="model-pill" id="header-model-pill">Loading model...</div>
+    </div>
+  </header>
+
+  <main class="container main-grid">
+    <!-- Input Form Card -->
+    <section class="card form-card">
+      <h2>Trip Details</h2>
+      <p class="card-help">Pick a campus shuttle preset or enter custom route conditions.</p>
+
+      <div class="field-group">
+        <label for="route-preset">Quick Route Preset (Optional)</label>
+        <select id="route-preset">
+          <option value="">-- Custom route values --</option>
+          {% for route in routes %}
+          <option
+            value="{{ route.id }}"
+            data-distance="{{ route.distance_km }}"
+            data-prev="{{ route.typical_prev_time_min }}"
+          >
+            {{ route.name }} ({{ route.distance_km }} km, {{ route.stops }} stops)
+          </option>
+          {% endfor %}
+        </select>
+      </div>
+
+      <form id="predict-form" novalidate>
+        <div class="field-group">
+          <div class="label-row">
+            <label for="route-distance">1. Route Distance (km)</label>
+            <span class="value-chip" id="distance-readout">3.2 km</span>
+          </div>
+          <input
+            type="range"
+            id="distance-slider"
+            min="0.5"
+            max="12.0"
+            step="0.1"
+            value="3.2"
+          />
+          <input
+            type="number"
+            id="route-distance"
+            name="route_distance_km"
+            min="0.2"
+            max="30.0"
+            step="0.1"
+            value="3.2"
+            required
+          />
+        </div>
+
+        <div class="field-group">
+          <label for="time-of-day">2. Time of Day (24h)</label>
+          <input
+            type="time"
+            id="time-of-day"
+            name="time_of_day"
+            value="08:45"
+            required
+          />
+          <div class="quick-chips" role="group" aria-label="Quick time presets">
+            <button type="button" class="chip-btn" data-time="08:45">Morning Rush 08:45</button>
+            <button type="button" class="chip-btn" data-time="13:15">Lunch 13:15</button>
+            <button type="button" class="chip-btn" data-time="17:30">Evening Rush 17:30</button>
+            <button type="button" class="chip-btn" data-time="20:30">Off-Peak 20:30</button>
+          </div>
+        </div>
+
+        <div class="field-group">
+          <label>3. Traffic Category</label>
+          <div class="segmented" role="radiogroup" aria-label="Traffic Category">
+            {% for cat in traffic_categories %}
+            <button
+              type="button"
+              class="seg-btn {% if cat == 'Medium' %}active{% endif %}"
+              data-traffic="{{ cat }}"
+            >
+              {{ cat }}
+            </button>
+            {% endfor %}
+          </div>
+          <input type="hidden" id="traffic-category" name="traffic_category" value="Medium" />
+        </div>
+
+        <div class="field-group">
+          <label for="prev-time">4. Previous Bus Travel Time (minutes)</label>
+          <input
+            type="number"
+            id="prev-time"
+            name="previous_travel_time_min"
+            min="1.0"
+            max="120.0"
+            step="0.1"
+            value="11.5"
+            required
+          />
+          <small class="hint">How long the immediately preceding bus took on this route segment.</small>
+        </div>
+
+        <div id="form-error" class="error-banner" hidden></div>
+
+        <button type="submit" class="primary-btn" id="submit-btn">
+          Estimate Bus Arrival Time
+        </button>
+      </form>
+    </section>
+
+    <!-- Output & Model Insights Column -->
+    <div class="results-column">
+      <section class="card eta-card" id="eta-card">
+        <div class="eta-header">
+          <span class="eta-kicker">Estimated Bus Arrival</span>
+          <div class="badges" id="eta-badges">
+            <span class="badge badge-neutral">Ready</span>
+          </div>
+        </div>
+
+        <div class="eta-main">
+          <div class="eta-number">
+            <span id="eta-minutes">--</span>
+            <span class="eta-unit">min</span>
+          </div>
+          <div class="eta-meta">
+            <div>
+              <span class="meta-label">Expected Arrival Clock</span>
+              <strong id="eta-clock">--:--</strong>
+            </div>
+            <div>
+              <span class="meta-label">Expected Range (±MAE)</span>
+              <strong id="eta-range">-- to -- min</strong>
+            </div>
+          </div>
+        </div>
+
+        <div class="explanation-box">
+          <h3>Why this estimate?</h3>
+          <ul id="explanation-list">
+            <li>Submit trip details on the left to compute an arrival estimate.</li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="card metrics-card">
+        <h2>Model Accuracy &amp; Feature Importance</h2>
+        <div class="stats-grid" id="model-stats">
+          <div class="stat-tile">
+            <span class="stat-label">Active Model</span>
+            <strong id="stat-model">-</strong>
+          </div>
+          <div class="stat-tile">
+            <span class="stat-label">Test MAE</span>
+            <strong id="stat-mae">-</strong>
+          </div>
+          <div class="stat-tile">
+            <span class="stat-label">Test RMSE</span>
+            <strong id="stat-rmse">-</strong>
+          </div>
+          <div class="stat-tile">
+            <span class="stat-label">Test R² Score</span>
+            <strong id="stat-r2">-</strong>
+          </div>
+        </div>
+
+        <div class="importance-section">
+          <h3>Top Predictive Signals</h3>
+          <div id="importance-bars" class="importance-bars"></div>
+        </div>
+      </section>
+
+      <section class="card history-card">
+        <div class="history-header">
+          <h2>Recent Estimates</h2>
+          <button type="button" class="text-btn" id="clear-history">Clear</button>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Time</th>
+                <th>Distance</th>
+                <th>Traffic</th>
+                <th>Prev Trip</th>
+                <th>Est. Wait</th>
+                <th>Clock</th>
+              </tr>
+            </thead>
+            <tbody id="history-body">
+              <tr class="empty-row">
+                <td colspan="6">No estimates run yet in this session.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
