@@ -1,0 +1,1201 @@
+trip_id,route_name,route_distance_km,time_of_day,traffic_category,previous_travel_time_min,arrival_time_min
+TRIP-0001,Route A: Main Gate -> North Hostels,3.23,13:18,High,16.7,14.26
+TRIP-0002,Route B: Central Library -> Academic Block Loop,2.48,18:18,Medium,10.2,9.58
+TRIP-0003,Route C: Railway Station -> Engineering Quad,5.19,20:52,Low,14.77,14.66
+TRIP-0004,Route D: South Dorms -> Sports Complex,2.66,15:06,Low,8.78,8.19
+TRIP-0005,Route A: Main Gate -> North Hostels,3.18,12:00,High,13.76,13.8
+TRIP-0006,Route B: Central Library -> Academic Block Loop,1.08,13:44,Low,5.8,6.04
+TRIP-0007,Route C: Railway Station -> Engineering Quad,7.67,21:30,Low,17.74,19.56
+TRIP-0008,Route D: South Dorms -> Sports Complex,2.5,08:31,Medium,10.47,12.14
+TRIP-0009,Route A: Main Gate -> North Hostels,2.31,19:24,Medium,9.15,8.21
+TRIP-0010,Route B: Central Library -> Academic Block Loop,2.17,12:30,Medium,10.49,10.24
+TRIP-0011,Route C: Railway Station -> Engineering Quad,4.06,06:37,Medium,14.12,12.41
+TRIP-0012,Route D: South Dorms -> Sports Complex,4.97,13:37,Medium,16.9,19.15
+TRIP-0013,Route A: Main Gate -> North Hostels,2.94,13:48,Medium,10.84,11.58
+TRIP-0014,Route B: Central Library -> Academic Block Loop,1.72,15:10,Low,5.0,4.95
+TRIP-0015,Route C: Railway Station -> Engineering Quad,4.15,12:50,High,17.04,17.5
+TRIP-0016,Route D: South Dorms -> Sports Complex,2.89,11:03,Low,7.52,8.25
+TRIP-0017,Route A: Main Gate -> North Hostels,2.93,12:48,High,13.4,13.94
+TRIP-0018,Route B: Central Library -> Academic Block Loop,0.9,17:42,Medium,6.85,7.45
+TRIP-0019,Route C: Railway Station -> Engineering Quad,3.74,17:18,Medium,15.68,15.73
+TRIP-0020,Route D: South Dorms -> Sports Complex,4.34,12:06,Low,10.24,10.61
+TRIP-0021,Route A: Main Gate -> North Hostels,3.59,17:21,Medium,17.16,16.09
+TRIP-0022,Route B: Central Library -> Academic Block Loop,2.01,13:28,Medium,7.92,8.6
+TRIP-0023,Route C: Railway Station -> Engineering Quad,5.75,09:38,Medium,19.79,19.47
+TRIP-0024,Route D: South Dorms -> Sports Complex,5.28,18:15,Medium,18.48,18.78
+TRIP-0025,Route A: Main Gate -> North Hostels,2.71,16:34,Low,9.76,10.08
+TRIP-0026,Route B: Central Library -> Academic Block Loop,1.62,11:37,Low,7.37,5.03
+TRIP-0027,Route C: Railway Station -> Engineering Quad,3.86,20:50,Low,8.39,10.47
+TRIP-0028,Route D: South Dorms -> Sports Complex,1.81,21:21,,6.04,6.8
+TRIP-0029,Route A: Main Gate -> North Hostels,2.44,14:06,Medium,8.08,6.91
+TRIP-0030,Route B: Central Library -> Academic Block Loop,1.21,11:38,Low,3.66,4.14
+TRIP-0031,Route C: Railway Station -> Engineering Quad,8.21,20:23,Low,18.66,18.29
+TRIP-0032,Route D: South Dorms -> Sports Complex,4.51,10:52,Low,14.13,13.09
+TRIP-0033,Route A: Main Gate -> North Hostels,1.41,20:42,Low,3.41,3.58
+TRIP-0034,Route B: Central Library -> Academic Block Loop,1.4,19:22,Medium,,6.54
+TRIP-0035,Route C: Railway Station -> Engineering Quad,4.66,14:29,Low,11.44,
+TRIP-0036,Route D: South Dorms -> Sports Complex,1.9,13:15,High,11.08,12.87
+TRIP-0037,Route A: Main Gate -> North Hostels,3.54,20:21,Medium,13.57,13.01
+TRIP-0038,Route B: Central Library -> Academic Block Loop,1.92,12:18,Low,8.93,8.01
+TRIP-0039,Route C: Railway Station -> Engineering Quad,8.94,10:14,Low,24.35,23.29
+TRIP-0040,Route D: South Dorms -> Sports Complex,2.46,15:47,Medium,10.97,9.09
+TRIP-0041,Route A: Main Gate -> North Hostels,3.23,21:34,Low,8.6,9.32
+TRIP-0042,Route B: Central Library -> Academic Block Loop,1.14,08:33,High,6.31,8.21
+TRIP-0043,Route C: Railway Station -> Engineering Quad,7.33,15:30,Low,17.73,19.44
+TRIP-0044,Route D: South Dorms -> Sports Complex,4.79,08:32,Medium,18.69,18.24
+TRIP-0045,Route A: Main Gate -> North Hostels,1.94,14:04,Low,8.45,7.34
+TRIP-0046,Route B: Central Library -> Academic Block Loop,2.39,06:53,Medium,8.86,7.8
+TRIP-0047,Route C: Railway Station -> Engineering Quad,3.66,13:00,High,19.51,17.48
+TRIP-0048,Route D: South Dorms -> Sports Complex,5.07,13:45,High,21.66,23.21
+TRIP-0049,Route A: Main Gate -> North Hostels,3.38,18:51,Low,9.29,8.56
+TRIP-0050,Route B: Central Library -> Academic Block Loop,2.28,15:51,Low,5.84,6.66
+TRIP-0051,Route C: Railway Station -> Engineering Quad,8.48,13:32,Medium,25.47,26.1
+TRIP-0052,Route D: South Dorms -> Sports Complex,5.12,08:08,Low,14.26,15.31
+TRIP-0053,Route A: Main Gate -> North Hostels,3.36,11:19,Low,10.24,10.28
+TRIP-0054,Route B: Central Library -> Academic Block Loop,1.24,08:53,Low,7.08,7.19
+TRIP-0055,Route C: Railway Station -> Engineering Quad,3.89,07:20,Medium,14.35,14.0
+TRIP-0056,Route D: South Dorms -> Sports Complex,3.04,14:19,Medium,9.86,11.07
+TRIP-0057,Route A: Main Gate -> North Hostels,1.61,10:10,Low,7.68,6.91
+TRIP-0058,Route B: Central Library -> Academic Block Loop,0.82,12:17,Medium,3.68,6.0
+TRIP-0059,Route C: Railway Station -> Engineering Quad,3.07,20:50,Low,9.71,9.63
+TRIP-0060,Route D: South Dorms -> Sports Complex,5.79,18:56,Medium,18.44,18.57
+TRIP-0061,Route A: Main Gate -> North Hostels,1.49,14:49,Low,6.99,3.19
+TRIP-0062,Route B: Central Library -> Academic Block Loop,1.42,16:25,Low,5.65,4.28
+TRIP-0063,Route C: Railway Station -> Engineering Quad,5.49,10:06,Low,15.56,14.87
+TRIP-0064,Route D: South Dorms -> Sports Complex,3.3,17:08,Medium,16.18,16.08
+TRIP-0065,Route A: Main Gate -> North Hostels,2.43,11:35,Low,9.56,8.75
+TRIP-0066,Route B: Central Library -> Academic Block Loop,2.17,14:45,Low,,7.4
+TRIP-0067,Route C: Railway Station -> Engineering Quad,4.07,17:16,High,20.03,21.72
+TRIP-0068,Route D: South Dorms -> Sports Complex,2.11,17:45,Low,7.11,8.6
+TRIP-0069,Route A: Main Gate -> North Hostels,3.73,18:55,Medium,13.48,12.54
+TRIP-0070,Route B: Central Library -> Academic Block Loop,2.42,10:26,Low,6.25,7.33
+TRIP-0071,Route C: Railway Station -> Engineering Quad,6.48,15:22,Low,16.64,16.88
+TRIP-0072,Route D: South Dorms -> Sports Complex,5.04,14:08,Low,12.76,14.23
+TRIP-0073,Route A: Main Gate -> North Hostels,1.44,07:52,Medium,8.04,6.91
+TRIP-0074,Route B: Central Library -> Academic Block Loop,1.93,11:40,Medium,7.86,8.14
+TRIP-0075,Route C: Railway Station -> Engineering Quad,5.14,11:22,Low,13.74,14.81
+TRIP-0076,Route D: South Dorms -> Sports Complex,3.54,12:26,High,14.89,15.06
+TRIP-0077,Route A: Main Gate -> North Hostels,3.24,13:56,Medium,13.71,13.81
+TRIP-0078,Route B: Central Library -> Academic Block Loop,2.43,08:20,High,12.78,11.18
+TRIP-0079,Route C: Railway Station -> Engineering Quad,6.63,17:08,Low,21.56,19.29
+TRIP-0080,Route D: South Dorms -> Sports Complex,2.95,13:36,Medium,12.23,12.71
+TRIP-0081,Route A: Main Gate -> North Hostels,3.25,08:13,High,15.63,15.49
+TRIP-0082,Route B: Central Library -> Academic Block Loop,2.23,08:09,High,10.94,11.94
+TRIP-0083,Route C: Railway Station -> Engineering Quad,3.33,20:24,Low,8.1,8.73
+TRIP-0084,Route D: South Dorms -> Sports Complex,4.95,09:34,High,-4.0,21.76
+TRIP-0085,Route A: Main Gate -> North Hostels,1.13,07:18,Medium,3.49,3.16
+TRIP-0086,Route B: Central Library -> Academic Block Loop,2.25,07:23,Medium,8.06,8.72
+TRIP-0087,Route C: Railway Station -> Engineering Quad,7.36,19:29,Low,17.13,19.67
+TRIP-0088,Route D: South Dorms -> Sports Complex,4.34,19:42,Low,9.34,9.94
+TRIP-0089,Route A: Main Gate -> North Hostels,1.86,17:30,High,10.34,12.22
+TRIP-0090,Route B: Central Library -> Academic Block Loop,1.84,07:09,High,6.39,9.13
+TRIP-0091,Route C: Railway Station -> Engineering Quad,3.34,09:21,High,15.39,16.8
+TRIP-0092,Route D: South Dorms -> Sports Complex,4.37,15:22,Low,13.25,12.08
+TRIP-0093,Route A: Main Gate -> North Hostels,2.69,17:21,High,16.67,16.53
+TRIP-0094,Route B: Central Library -> Academic Block Loop,1.64,12:46,Medium,11.01,9.55
+TRIP-0095,Route C: Railway Station -> Engineering Quad,4.57,11:13,Low,12.35,12.35
+TRIP-0096,Route D: South Dorms -> Sports Complex,3.43,12:50,Medium,10.49,11.39
+TRIP-0097,Route A: Main Gate -> North Hostels,1.22,12:59,Medium,8.7,6.95
+TRIP-0098,Route B: Central Library -> Academic Block Loop,1.74,17:23,High,12.11,12.91
+TRIP-0099,Route C: Railway Station -> Engineering Quad,7.95,15:01,Low,19.54,22.77
+TRIP-0100,Route D: South Dorms -> Sports Complex,3.85,17:55,High,19.01,18.93
+TRIP-0101,Route A: Main Gate -> North Hostels,2.54,18:54,Low,6.42,8.02
+TRIP-0102,Route B: Central Library -> Academic Block Loop,2.24,07:22,Low,7.43,6.9
+TRIP-0103,Route C: Railway Station -> Engineering Quad,4.81,18:01,Low,11.91,12.38
+TRIP-0104,Route D: South Dorms -> Sports Complex,3.27,08:53,High,14.77,13.35
+TRIP-0105,Route A: Main Gate -> North Hostels,3.73,21:56,Low,9.2,10.41
+TRIP-0106,Route B: Central Library -> Academic Block Loop,1.99,12:31,Medium,8.7,9.83
+TRIP-0107,Route C: Railway Station -> Engineering Quad,6.21,09:02,Medium,23.43,24.97
+TRIP-0108,Route D: South Dorms -> Sports Complex,4.03,19:30,High,16.14,18.2
+TRIP-0109,Route A: Main Gate -> North Hostels,2.19,07:44,Medium,9.1,10.75
+TRIP-0110,Route B: Central Library -> Academic Block Loop,1.0,09:18,High,8.86,7.05
+TRIP-0111,Route C: Railway Station -> Engineering Quad,4.67,14:06,Low,9.53,11.04
+TRIP-0112,Route D: South Dorms -> Sports Complex,2.73,19:35,Medium,9.32,9.45
+TRIP-0113,Route A: Main Gate -> North Hostels,3.2,07:24,Low,9.97,10.3
+TRIP-0114,Route B: Central Library -> Academic Block Loop,2.24,13:59,High,,12.26
+TRIP-0115,Route C: Railway Station -> Engineering Quad,8.76,15:36,Medium,24.89,25.68
+TRIP-0116,Route D: South Dorms -> Sports Complex,3.37,20:43,Low,8.11,9.93
+TRIP-0117,Route A: Main Gate -> North Hostels,1.64,06:53,High,8.84,8.78
+TRIP-0118,Route B: Central Library -> Academic Block Loop,1.8,06:37,Low,4.39,5.49
+TRIP-0119,Route C: Railway Station -> Engineering Quad,9.24,16:07,Low,22.77,23.96
+TRIP-0120,Route D: South Dorms -> Sports Complex,4.72,21:26,Medium,13.66,15.7
+TRIP-0121,Route A: Main Gate -> North Hostels,3.11,13:19,Medium,12.75,14.57
+TRIP-0122,Route B: Central Library -> Academic Block Loop,2.49,10:58,Low,4.96,5.18
+TRIP-0123,Route C: Railway Station -> Engineering Quad,7.88,14:05,High,30.77,29.49
+TRIP-0124,Route D: South Dorms -> Sports Complex,3.43,18:48,Low,8.83,
+TRIP-0125,Route A: Main Gate -> North Hostels,3.64,19:15,Low,7.56,9.79
+TRIP-0126,Route B: Central Library -> Academic Block Loop,0.93,16:58,High,9.18,8.18
+TRIP-0127,Route C: Railway Station -> Engineering Quad,7.63,18:55,Low,18.21,20.74
+TRIP-0128,Route D: South Dorms -> Sports Complex,5.29,06:34,Medium,15.87,17.32
+TRIP-0129,Route A: Main Gate -> North Hostels,2.21,20:23,Medium,6.68,5.23
+TRIP-0130,Route B: Central Library -> Academic Block Loop,1.36,19:44,Low,2.0,3.41
+TRIP-0131,Route C: Railway Station -> Engineering Quad,4.55,25:99,Low,12.58,12.95
+TRIP-0132,Route D: South Dorms -> Sports Complex,4.7,19:01,High,19.13,19.12
+TRIP-0133,Route A: Main Gate -> North Hostels,1.49,15:25,High,5.91,5.35
+TRIP-0134,Route B: Central Library -> Academic Block Loop,1.44,20:41,Low,4.55,6.57
+TRIP-0135,Route C: Railway Station -> Engineering Quad,3.18,09:38,Low,9.03,10.21
+TRIP-0136,Route D: South Dorms -> Sports Complex,3.14,13:01,High,15.16,14.62
+TRIP-0137,Route A: Main Gate -> North Hostels,1.89,20:24,Low,3.62,5.63
+TRIP-0138,Route B: Central Library -> Academic Block Loop,1.68,18:00,High,10.8,10.09
+TRIP-0139,Route C: Railway Station -> Engineering Quad,4.33,11:30,Low,14.66,13.4
+TRIP-0140,Route D: South Dorms -> Sports Complex,5.01,18:39,Low,14.3,15.44
+TRIP-0141,Route A: Main Gate -> North Hostels,2.95,19:08,High,12.16,12.35
+TRIP-0142,Route B: Central Library -> Academic Block Loop,1.74,08:05,High,9.36,10.3
+TRIP-0143,Route C: Railway Station -> Engineering Quad,5.6,07:03,High,20.77,21.21
+TRIP-0144,Route D: South Dorms -> Sports Complex,2.74,07:31,Medium,9.67,11.26
+TRIP-0145,Route A: Main Gate -> North Hostels,1.26,08:14,Medium,8.79,7.08
+TRIP-0146,Route B: Central Library -> Academic Block Loop,1.1,11:11,Low,4.94,4.49
+TRIP-0147,Route C: Railway Station -> Engineering Quad,3.47,19:52,Low,9.09,8.23
+TRIP-0148,Route D: South Dorms -> Sports Complex,3.1,13:11,High,13.66,
+TRIP-0149,Route A: Main Gate -> North Hostels,2.0,10:16,Low,5.1,7.57
+TRIP-0150,Route B: Central Library -> Academic Block Loop,1.33,20:55,Low,3.03,4.55
+TRIP-0151,Route C: Railway Station -> Engineering Quad,3.73,07:14,Low,10.47,10.66
+TRIP-0152,Route D: South Dorms -> Sports Complex,2.5,06:59,Low,4.19,7.31
+TRIP-0153,Route A: Main Gate -> North Hostels,2.67,15:39,Medium,9.69,10.83
+TRIP-0154,Route B: Central Library -> Academic Block Loop,1.84,09:01,High,10.52,11.58
+TRIP-0155,Route C: Railway Station -> Engineering Quad,8.82,13:33,Medium,30.56,30.98
+TRIP-0156,Route D: South Dorms -> Sports Complex,5.1,11:26,Medium,16.88,18.24
+TRIP-0157,Route A: Main Gate -> North Hostels,2.25,11:25,Low,7.18,5.2
+TRIP-0158,Route B: Central Library -> Academic Block Loop,0.77,09:04,High,10.22,10.83
+TRIP-0159,Route C: Railway Station -> Engineering Quad,4.83,20:18,Medium,15.43,16.03
+TRIP-0160,Route D: South Dorms -> Sports Complex,4.6,09:11,High,19.29,20.87
+TRIP-0161,Route A: Main Gate -> North Hostels,1.17,21:54,Low,4.19,4.55
+TRIP-0162,Route B: Central Library -> Academic Block Loop,2.31,14:49,Low,6.65,6.17
+TRIP-0163,Route C: Railway Station -> Engineering Quad,6.67,11:04,Low,14.21,16.01
+TRIP-0164,Route D: South Dorms -> Sports Complex,4.2,10:05,Medium,14.21,13.66
+TRIP-0165,Route A: Main Gate -> North Hostels,2.63,12:38,Medium,12.55,12.91
+TRIP-0166,Route B: Central Library -> Academic Block Loop,2.09,21:45,Low,6.54,6.31
+TRIP-0167,Route C: Railway Station -> Engineering Quad,8.01,14:34,Low,18.98,20.34
+TRIP-0168,Route D: South Dorms -> Sports Complex,3.36,17:05,Medium,12.97,13.8
+TRIP-0169,Route A: Main Gate -> North Hostels,1.66,19:49,High,6.57,5.53
+TRIP-0170,Route B: Central Library -> Academic Block Loop,2.04,20:07,Low,5.98,7.51
+TRIP-0171,Route C: Railway Station -> Engineering Quad,7.58,18:38,Medium,22.23,23.39
+TRIP-0172,Route D: South Dorms -> Sports Complex,5.32,18:52,Low,15.79,16.88
+TRIP-0173,Route A: Main Gate -> North Hostels,1.18,21:41,Low,6.57,5.11
+TRIP-0174,Route B: Central Library -> Academic Block Loop,1.44,11:27,Low,6.05,4.72
+TRIP-0175,Route C: Railway Station -> Engineering Quad,6.72,21:00,Low,17.92,17.63
+TRIP-0176,Route D: South Dorms -> Sports Complex,3.36,08:32,Medium,14.6,12.58
+TRIP-0177,Route A: Main Gate -> North Hostels,3.72,10:17,Low,10.13,10.53
+TRIP-0178,Route B: Central Library -> Academic Block Loop,1.23,09:38,Medium,6.28,6.19
+TRIP-0179,Route C: Railway Station -> Engineering Quad,4.45,07:12,Medium,15.45,15.29
+TRIP-0180,Route D: South Dorms -> Sports Complex,3.78,08:13,Medium,,14.54
+TRIP-0181,Route A: Main Gate -> North Hostels,3.5,20:29,High,13.03,13.1
+TRIP-0182,Route B: Central Library -> Academic Block Loop,0.86,08:38,Medium,6.64,4.56
+TRIP-0183,Route C: Railway Station -> Engineering Quad,8.34,16:04,Low,20.43,21.36
+TRIP-0184,Route D: South Dorms -> Sports Complex,2.38,19:42,Medium,7.41,8.86
+TRIP-0185,Route A: Main Gate -> North Hostels,2.13,12:47,High,11.29,13.38
+TRIP-0186,Route B: Central Library -> Academic Block Loop,2.42,08:22,High,11.39,12.87
+TRIP-0187,Route C: Railway Station -> Engineering Quad,8.34,09:17,Medium,28.45,28.05
+TRIP-0188,Route D: South Dorms -> Sports Complex,4.67,19:42,High,17.3,19.14
+TRIP-0189,Route A: Main Gate -> North Hostels,1.8,10:18,Low,4.69,5.69
+TRIP-0190,Route B: Central Library -> Academic Block Loop,2.12,14:31,Low,6.33,7.08
+TRIP-0191,Route C: Railway Station -> Engineering Quad,5.61,08:33,Medium,20.95,22.32
+TRIP-0192,Route D: South Dorms -> Sports Complex,5.69,09:02,High,23.53,25.05
+TRIP-0193,Route A: Main Gate -> North Hostels,1.2,08:21,High,10.0,10.0
+TRIP-0194,Route B: Central Library -> Academic Block Loop,1.57,12:42,Medium,8.39,5.24
+TRIP-0195,Route C: Railway Station -> Engineering Quad,8.16,18:00,Medium,27.6,28.42
+TRIP-0196,Route D: South Dorms -> Sports Complex,3.14,07:17,Low,8.13,11.12
+TRIP-0197,Route A: Main Gate -> North Hostels,3.16,18:48,Low,9.24,8.32
+TRIP-0198,Route B: Central Library -> Academic Block Loop,1.88,06:32,High,8.56,8.22
+TRIP-0199,Route C: Railway Station -> Engineering Quad,5.77,08:30,Medium,20.56,21.42
+TRIP-0200,Route D: South Dorms -> Sports Complex,5.55,11:27,Low,15.67,14.68
+TRIP-0201,Route A: Main Gate -> North Hostels,2.75,13:50,High,10.97,12.83
+TRIP-0202,Route B: Central Library -> Academic Block Loop,1.95,19:37,Low,4.06,5.74
+TRIP-0203,Route C: Railway Station -> Engineering Quad,7.7,21:52,Low,18.26,20.06
+TRIP-0204,Route D: South Dorms -> Sports Complex,5.66,12:11,Low,14.96,15.81
+TRIP-0205,Route A: Main Gate -> North Hostels,3.08,14:23,Medium,11.99,11.52
+TRIP-0206,Route B: Central Library -> Academic Block Loop,1.35,12:50,Medium,7.46,8.01
+TRIP-0207,Route C: Railway Station -> Engineering Quad,7.16,16:40,High,29.88,29.03
+TRIP-0208,Route D: South Dorms -> Sports Complex,2.54,18:34,Medium,8.37,8.43
+TRIP-0209,Route A: Main Gate -> North Hostels,1.47,10:46,Low,5.74,5.7
+TRIP-0210,Route B: Central Library -> Academic Block Loop,2.36,09:38,High,-4.0,10.88
+TRIP-0211,Route C: Railway Station -> Engineering Quad,6.77,10:27,Low,18.37,19.18
+TRIP-0212,Route D: South Dorms -> Sports Complex,3.38,17:07,Low,11.73,12.49
+TRIP-0213,Route A: Main Gate -> North Hostels,2.78,13:23,High,14.71,13.5
+TRIP-0214,Route B: Central Library -> Academic Block Loop,1.71,14:06,Low,5.07,4.96
+TRIP-0215,Route C: Railway Station -> Engineering Quad,8.78,20:49,Medium,27.06,26.07
+TRIP-0216,Route D: South Dorms -> Sports Complex,4.9,18:19,Medium,15.08,18.21
+TRIP-0217,Route A: Main Gate -> North Hostels,2.87,10:59,Low,8.65,8.32
+TRIP-0218,Route B: Central Library -> Academic Block Loop,1.13,19:09,Medium,4.32,4.93
+TRIP-0219,Route C: Railway Station -> Engineering Quad,4.96,18:52,Medium,16.01,
+TRIP-0220,Route D: South Dorms -> Sports Complex,2.2,12:33,High,10.18,11.48
+TRIP-0221,Route A: Main Gate -> North Hostels,2.27,16:06,Medium,10.9,10.19
+TRIP-0222,Route B: Central Library -> Academic Block Loop,0.98,18:45,Low,4.36,3.94
+TRIP-0223,Route C: Railway Station -> Engineering Quad,3.47,19:24,Low,9.04,8.89
+TRIP-0224,Route D: South Dorms -> Sports Complex,3.8,17:08,High,17.98,20.3
+TRIP-0225,Route A: Main Gate -> North Hostels,1.38,17:47,High,11.69,12.1
+TRIP-0226,Route B: Central Library -> Academic Block Loop,1.49,07:18,Medium,4.77,6.58
+TRIP-0227,Route C: Railway Station -> Engineering Quad,8.25,19:14,Low,21.38,22.76
+TRIP-0228,Route D: South Dorms -> Sports Complex,5.05,14:07,Medium,16.84,17.27
+TRIP-0229,Route A: Main Gate -> North Hostels,1.38,08:53,High,8.89,10.46
+TRIP-0230,Route B: Central Library -> Academic Block Loop,0.74,13:16,High,6.56,6.6
+TRIP-0231,Route C: Railway Station -> Engineering Quad,8.19,09:06,Medium,24.83,26.36
+TRIP-0232,Route D: South Dorms -> Sports Complex,3.96,19:12,Low,10.35,12.12
+TRIP-0233,Route A: Main Gate -> North Hostels,-1.5,18:10,High,10.46,12.53
+TRIP-0234,Route B: Central Library -> Academic Block Loop,1.39,09:54,Low,5.53,6.38
+TRIP-0235,Route C: Railway Station -> Engineering Quad,3.3,09:14,Medium,15.11,14.8
+TRIP-0236,Route D: South Dorms -> Sports Complex,5.84,08:38,High,26.49,26.68
+TRIP-0237,Route A: Main Gate -> North Hostels,3.5,21:37,Medium,9.78,10.02
+TRIP-0238,Route B: Central Library -> Academic Block Loop,1.91,10:59,Low,4.55,4.62
+TRIP-0239,Route C: Railway Station -> Engineering Quad,8.22,17:31,Low,22.95,22.65
+TRIP-0240,Route D: South Dorms -> Sports Complex,3.74,10:32,Low,9.97,8.62
+TRIP-0241,Route A: Main Gate -> North Hostels,2.65,12:28,Medium,11.17,9.71
+TRIP-0242,Route B: Central Library -> Academic Block Loop,1.74,16:59,Low,8.47,7.25
+TRIP-0243,Route C: Railway Station -> Engineering Quad,8.66,16:31,Medium,27.64,30.09
+TRIP-0244,Route D: South Dorms -> Sports Complex,3.7,21:00,Low,12.49,13.19
+TRIP-0245,Route A: Main Gate -> North Hostels,1.65,17:02,Medium,8.21,7.96
+TRIP-0246,Route B: Central Library -> Academic Block Loop,1.49,09:14,Medium,7.78,7.84
+TRIP-0247,Route C: Railway Station -> Engineering Quad,5.12,07:21,Low,13.71,14.73
+TRIP-0248,Route D: South Dorms -> Sports Complex,2.57,20:16,High,7.72,8.78
+TRIP-0249,Route A: Main Gate -> North Hostels,1.43,16:06,Low,7.26,6.24
+TRIP-0250,Route B: Central Library -> Academic Block Loop,2.2,14:39,High,8.96,10.53
+TRIP-0251,Route C: Railway Station -> Engineering Quad,4.88,21:12,Low,13.31,12.58
+TRIP-0252,Route D: South Dorms -> Sports Complex,5.79,14:14,Low,12.04,14.43
+TRIP-0253,Route A: Main Gate -> North Hostels,2.2,15:34,Low,7.41,7.75
+TRIP-0254,Route B: Central Library -> Academic Block Loop,0.92,19:56,Medium,6.76,4.91
+TRIP-0255,Route C: Railway Station -> Engineering Quad,5.59,16:19,Medium,16.26,18.07
+TRIP-0256,Route D: South Dorms -> Sports Complex,3.09,13:29,Medium,11.12,12.42
+TRIP-0257,Route A: Main Gate -> North Hostels,2.63,11:28,Low,7.55,9.6
+TRIP-0258,Route B: Central Library -> Academic Block Loop,1.03,17:42,Medium,8.89,7.96
+TRIP-0259,Route C: Railway Station -> Engineering Quad,7.74,10:29,Medium,24.58,25.32
+TRIP-0260,Route D: South Dorms -> Sports Complex,4.5,07:19,High,17.68,18.86
+TRIP-0261,Route A: Main Gate -> North Hostels,2.69,06:34,Low,9.8,9.02
+TRIP-0262,Route B: Central Library -> Academic Block Loop,0.78,18:01,High,4.53,7.24
+TRIP-0263,Route C: Railway Station -> Engineering Quad,2.77,18:42,Low,8.3,10.64
+TRIP-0264,Route D: South Dorms -> Sports Complex,4.07,10:41,Low,10.25,8.62
+TRIP-0265,Route A: Main Gate -> North Hostels,2.58,21:28,Medium,8.23,7.8
+TRIP-0266,Route B: Central Library -> Academic Block Loop,1.8,20:07,Low,2.16,5.08
+TRIP-0267,Route C: Railway Station -> Engineering Quad,5.92,15:15,High,21.64,24.36
+TRIP-0268,Route D: South Dorms -> Sports Complex,3.26,12:58,Low,11.87,10.76
+TRIP-0269,Route A: Main Gate -> North Hostels,1.89,11:13,Medium,6.97,7.72
+TRIP-0270,Route B: Central Library -> Academic Block Loop,1.56,17:12,Medium,,9.58
+TRIP-0271,Route C: Railway Station -> Engineering Quad,6.83,07:07,Medium,21.5,20.13
+TRIP-0272,Route D: South Dorms -> Sports Complex,2.3,09:25,Medium,8.98,11.07
+TRIP-0273,Route A: Main Gate -> North Hostels,2.22,19:02,,10.9,11.46
+TRIP-0274,Route B: Central Library -> Academic Block Loop,2.29,16:20,Low,8.48,8.78
+TRIP-0275,Route C: Railway Station -> Engineering Quad,6.27,21:54,Medium,19.89,19.35
+TRIP-0276,Route D: South Dorms -> Sports Complex,2.97,20:30,Low,9.0,7.38
+TRIP-0277,Route A: Main Gate -> North Hostels,1.44,07:26,Medium,6.84,6.22
+TRIP-0278,Route B: Central Library -> Academic Block Loop,2.37,15:18,Low,6.43,7.89
+TRIP-0279,Route C: Railway Station -> Engineering Quad,9.15,11:19,Low,22.76,21.84
+TRIP-0280,Route D: South Dorms -> Sports Complex,2.11,19:57,Medium,5.77,8.11
+TRIP-0281,Route A: Main Gate -> North Hostels,3.41,21:07,Low,9.72,10.24
+TRIP-0282,Route B: Central Library -> Academic Block Loop,1.71,20:26,High,9.96,6.14
+TRIP-0283,Route C: Railway Station -> Engineering Quad,5.76,12:29,Medium,19.46,21.19
+TRIP-0284,Route D: South Dorms -> Sports Complex,2.04,18:35,Low,5.95,8.24
+TRIP-0285,Route A: Main Gate -> North Hostels,1.22,08:56,Medium,10.87,10.16
+TRIP-0286,Route B: Central Library -> Academic Block Loop,1.66,21:01,High,9.73,8.61
+TRIP-0287,Route C: Railway Station -> Engineering Quad,3.75,07:29,Low,11.27,11.22
+TRIP-0288,Route D: South Dorms -> Sports Complex,3.95,16:12,Low,10.78,13.77
+TRIP-0289,Route A: Main Gate -> North Hostels,3.47,21:12,Low,8.21,11.51
+TRIP-0290,Route B: Central Library -> Academic Block Loop,1.52,21:09,Low,4.67,4.76
+TRIP-0291,Route C: Railway Station -> Engineering Quad,3.94,11:28,Low,9.32,11.22
+TRIP-0292,Route D: South Dorms -> Sports Complex,2.67,17:41,Medium,12.08,11.65
+TRIP-0293,Route A: Main Gate -> North Hostels,1.41,14:13,Low,5.15,4.89
+TRIP-0294,Route B: Central Library -> Academic Block Loop,2.51,14:02,Low,7.08,8.22
+TRIP-0295,Route C: Railway Station -> Engineering Quad,6.66,10:02,Low,17.54,20.18
+TRIP-0296,Route D: South Dorms -> Sports Complex,3.67,20:24,Medium,11.73,12.85
+TRIP-0297,Route A: Main Gate -> North Hostels,2.88,18:37,Low,8.55,11.29
+TRIP-0298,Route B: Central Library -> Academic Block Loop,1.86,11:53,Low,7.46,6.05
+TRIP-0299,Route C: Railway Station -> Engineering Quad,5.19,13:05,High,22.37,21.56
+TRIP-0300,Route D: South Dorms -> Sports Complex,3.63,09:50,Low,10.84,12.2
+TRIP-0301,Route A: Main Gate -> North Hostels,2.82,18:05,High,13.94,16.64
+TRIP-0302,Route B: Central Library -> Academic Block Loop,2.44,08:54,Medium,12.4,12.92
+TRIP-0303,Route C: Railway Station -> Engineering Quad,8.58,18:17,Medium,26.22,28.53
+TRIP-0304,Route D: South Dorms -> Sports Complex,3.71,08:47,Medium,14.51,15.4
+TRIP-0305,Route A: Main Gate -> North Hostels,2.62,17:26,Low,9.39,10.93
+TRIP-0306,Route B: Central Library -> Academic Block Loop,2.07,19:08,Low,5.58,5.56
+TRIP-0307,Route C: Railway Station -> Engineering Quad,5.12,09:14,Medium,19.48,17.34
+TRIP-0308,Route D: South Dorms -> Sports Complex,4.85,11:22,Low,12.66,13.5
+TRIP-0309,Route A: Main Gate -> North Hostels,1.94,12:13,Low,7.07,6.32
+TRIP-0310,Route B: Central Library -> Academic Block Loop,1.62,16:28,Medium,6.28,4.66
+TRIP-0311,Route C: Railway Station -> Engineering Quad,8.63,20:35,Medium,27.5,28.53
+TRIP-0312,Route D: South Dorms -> Sports Complex,1.78,13:54,Medium,8.64,8.7
+TRIP-0313,Route A: Main Gate -> North Hostels,2.62,19:28,Low,6.19,7.97
+TRIP-0314,Route B: Central Library -> Academic Block Loop,2.25,21:55,Medium,7.85,9.16
+TRIP-0315,Route C: Railway Station -> Engineering Quad,5.39,10:39,Low,13.45,12.13
+TRIP-0316,Route D: South Dorms -> Sports Complex,4.03,11:06,Low,,9.38
+TRIP-0317,Route A: Main Gate -> North Hostels,3.7,12:45,High,,16.26
+TRIP-0318,Route B: Central Library -> Academic Block Loop,1.05,19:05,Low,3.54,4.12
+TRIP-0319,Route C: Railway Station -> Engineering Quad,7.22,19:07,Low,17.11,16.88
+TRIP-0320,Route D: South Dorms -> Sports Complex,2.82,13:10,Medium,11.74,11.79
+TRIP-0321,Route A: Main Gate -> North Hostels,3.22,12:22,High,12.95,14.42
+TRIP-0322,Route B: Central Library -> Academic Block Loop,1.75,21:54,Low,7.09,6.08
+TRIP-0323,Route C: Railway Station -> Engineering Quad,8.1,07:53,Low,18.63,18.06
+TRIP-0324,Route D: South Dorms -> Sports Complex,2.5,09:32,Medium,8.8,8.76
+TRIP-0325,Route A: Main Gate -> North Hostels,2.87,17:12,High,16.33,16.69
+TRIP-0326,Route B: Central Library -> Academic Block Loop,2.38,10:19,Low,7.08,8.5
+TRIP-0327,Route C: Railway Station -> Engineering Quad,5.83,09:37,Medium,21.6,21.51
+TRIP-0328,Route D: South Dorms -> Sports Complex,5.03,20:34,Medium,16.36,16.27
+TRIP-0329,Route A: Main Gate -> North Hostels,1.81,08:36,High,12.21,15.12
+TRIP-0330,Route B: Central Library -> Academic Block Loop,2.25,12:41,Low,9.01,8.79
+TRIP-0331,Route C: Railway Station -> Engineering Quad,7.92,09:46,Medium,26.72,23.96
+TRIP-0332,Route D: South Dorms -> Sports Complex,2.66,07:17,Medium,7.87,8.26
+TRIP-0333,Route A: Main Gate -> North Hostels,3.19,08:29,High,17.54,15.2
+TRIP-0334,Route B: Central Library -> Academic Block Loop,1.52,20:05,Medium,4.17,6.09
+TRIP-0335,Route C: Railway Station -> Engineering Quad,7.7,10:58,Low,16.93,18.72
+TRIP-0336,Route D: South Dorms -> Sports Complex,3.82,15:32,Low,9.34,9.65
+TRIP-0337,Route A: Main Gate -> North Hostels,1.79,17:55,High,10.76,9.6
+TRIP-0338,Route B: Central Library -> Academic Block Loop,2.15,21:23,Low,6.56,9.12
+TRIP-0339,Route C: Railway Station -> Engineering Quad,5.06,16:24,Low,15.92,14.56
+TRIP-0340,Route D: South Dorms -> Sports Complex,3.43,20:04,Low,8.33,9.06
+TRIP-0341,Route A: Main Gate -> North Hostels,3.79,20:12,Low,9.78,8.54
+TRIP-0342,Route B: Central Library -> Academic Block Loop,1.82,16:42,High,10.57,9.51
+TRIP-0343,Route C: Railway Station -> Engineering Quad,7.45,15:14,Low,17.53,19.22
+TRIP-0344,Route D: South Dorms -> Sports Complex,5.32,06:59,Low,14.77,13.83
+TRIP-0345,Route A: Main Gate -> North Hostels,3.16,10:30,Medium,10.15,9.57
+TRIP-0346,Route B: Central Library -> Academic Block Loop,1.68,18:35,Low,3.72,5.55
+TRIP-0347,Route C: Railway Station -> Engineering Quad,9.08,17:30,High,34.14,37.3
+TRIP-0348,Route D: South Dorms -> Sports Complex,3.7,13:28,Medium,15.31,14.64
+TRIP-0349,Route A: Main Gate -> North Hostels,3.33,11:55,Low,9.36,8.64
+TRIP-0350,Route B: Central Library -> Academic Block Loop,2.35,20:47,Low,7.66,5.92
+TRIP-0351,Route C: Railway Station -> Engineering Quad,3.33,08:22,Low,13.96,13.83
+TRIP-0352,Route D: South Dorms -> Sports Complex,2.27,19:19,Medium,8.42,8.61
+TRIP-0353,Route A: Main Gate -> North Hostels,3.52,16:24,Low,8.9,9.84
+TRIP-0354,Route B: Central Library -> Academic Block Loop,1.35,13:45,Low,4.72,5.68
+TRIP-0355,Route C: Railway Station -> Engineering Quad,3.75,10:19,Medium,10.86,12.99
+TRIP-0356,Route D: South Dorms -> Sports Complex,5.28,07:42,Medium,16.66,18.46
+TRIP-0357,Route A: Main Gate -> North Hostels,2.99,20:36,Low,7.52,9.36
+TRIP-0358,Route B: Central Library -> Academic Block Loop,1.72,16:08,Low,4.8,5.9
+TRIP-0359,Route C: Railway Station -> Engineering Quad,7.33,16:58,High,29.36,29.94
+TRIP-0360,Route D: South Dorms -> Sports Complex,3.42,07:51,Low,8.94,12.92
+TRIP-0361,Route A: Main Gate -> North Hostels,1.76,19:22,Medium,6.98,5.74
+TRIP-0362,Route B: Central Library -> Academic Block Loop,1.63,16:06,Medium,5.36,6.89
+TRIP-0363,Route C: Railway Station -> Engineering Quad,6.72,17:56,Low,19.27,17.13
+TRIP-0364,Route D: South Dorms -> Sports Complex,5.55,14:09,Low,16.18,13.96
+TRIP-0365,Route A: Main Gate -> North Hostels,1.61,09:52,Low,6.07,6.52
+TRIP-0366,Route B: Central Library -> Academic Block Loop,2.11,17:52,Low,8.48,8.83
+TRIP-0367,Route C: Railway Station -> Engineering Quad,8.97,09:06,High,36.99,37.24
+TRIP-0368,Route D: South Dorms -> Sports Complex,3.43,18:16,Low,11.36,11.24
+TRIP-0369,Route A: Main Gate -> North Hostels,3.18,19:40,High,10.76,13.05
+TRIP-0370,Route B: Central Library -> Academic Block Loop,1.18,10:34,,5.19,5.72
+TRIP-0371,Route C: Railway Station -> Engineering Quad,6.22,16:24,Medium,21.73,22.91
+TRIP-0372,Route D: South Dorms -> Sports Complex,3.92,19:25,Low,11.59,12.77
+TRIP-0373,Route A: Main Gate -> North Hostels,3.8,20:33,Medium,12.61,11.71
+TRIP-0374,Route B: Central Library -> Academic Block Loop,1.71,15:12,Low,5.74,5.43
+TRIP-0375,Route C: Railway Station -> Engineering Quad,7.7,11:40,Low,19.16,20.57
+TRIP-0376,Route D: South Dorms -> Sports Complex,5.26,13:25,Medium,18.4,17.67
+TRIP-0377,Route A: Main Gate -> North Hostels,1.18,11:24,Low,,4.22
+TRIP-0378,Route B: Central Library -> Academic Block Loop,0.85,07:21,Medium,4.27,5.62
+TRIP-0379,Route C: Railway Station -> Engineering Quad,3.76,15:54,Low,8.96,11.62
+TRIP-0380,Route D: South Dorms -> Sports Complex,5.06,20:21,Low,12.67,13.89
+TRIP-0381,Route A: Main Gate -> North Hostels,2.61,08:50,Medium,11.52,11.66
+TRIP-0382,Route B: Central Library -> Academic Block Loop,1.8,21:16,Low,6.58,8.01
+TRIP-0383,Route C: Railway Station -> Engineering Quad,5.11,09:59,Low,15.66,14.35
+TRIP-0384,Route D: South Dorms -> Sports Complex,1.79,13:18,Medium,7.31,8.64
+TRIP-0385,Route A: Main Gate -> North Hostels,3.32,17:32,Low,11.31,11.09
+TRIP-0386,Route B: Central Library -> Academic Block Loop,1.17,07:10,Low,2.19,4.07
+TRIP-0387,Route C: Railway Station -> Engineering Quad,3.9,19:17,High,17.44,17.59
+TRIP-0388,Route D: South Dorms -> Sports Complex,1.79,20:50,Medium,6.96,7.26
+TRIP-0389,Route A: Main Gate -> North Hostels,3.76,20:32,High,16.12,16.67
+TRIP-0390,Route B: Central Library -> Academic Block Loop,2.25,16:01,Low,6.34,8.12
+TRIP-0391,Route C: Railway Station -> Engineering Quad,3.75,17:58,Low,13.73,11.17
+TRIP-0392,Route D: South Dorms -> Sports Complex,3.68,14:24,Low,9.39,9.07
+TRIP-0393,Route A: Main Gate -> North Hostels,2.12,09:13,Medium,9.93,9.63
+TRIP-0394,Route B: Central Library -> Academic Block Loop,2.05,09:50,Medium,8.57,7.6
+TRIP-0395,Route C: Railway Station -> Engineering Quad,4.33,16:05,Medium,14.83,13.84
+TRIP-0396,Route D: South Dorms -> Sports Complex,5.83,08:50,Low,16.74,16.88
+TRIP-0397,Route A: Main Gate -> North Hostels,1.31,13:52,High,8.3,6.44
+TRIP-0398,Route B: Central Library -> Academic Block Loop,2.24,14:34,Medium,9.62,7.81
+TRIP-0399,Route C: Railway Station -> Engineering Quad,7.04,08:18,,28.1,29.1
+TRIP-0400,Route D: South Dorms -> Sports Complex,2.35,17:09,Low,10.49,10.46
+TRIP-0401,Route A: Main Gate -> North Hostels,2.32,12:55,Medium,9.84,10.47
+TRIP-0402,Route B: Central Library -> Academic Block Loop,1.83,12:18,Medium,5.46,7.48
+TRIP-0403,Route C: Railway Station -> Engineering Quad,4.38,13:35,Medium,14.92,15.83
+TRIP-0404,Route D: South Dorms -> Sports Complex,3.92,15:42,Low,10.86,10.16
+TRIP-0405,Route A: Main Gate -> North Hostels,2.27,08:03,High,12.44,12.53
+TRIP-0406,Route B: Central Library -> Academic Block Loop,1.81,18:20,Low,7.3,7.13
+TRIP-0407,Route C: Railway Station -> Engineering Quad,8.89,21:42,Low,20.69,22.26
+TRIP-0408,Route D: South Dorms -> Sports Complex,2.33,11:43,High,10.6,9.79
+TRIP-0409,Route A: Main Gate -> North Hostels,3.41,11:31,Low,11.78,11.23
+TRIP-0410,Route B: Central Library -> Academic Block Loop,0.97,07:18,High,6.13,6.12
+TRIP-0411,Route C: Railway Station -> Engineering Quad,3.33,13:04,High,15.87,15.44
+TRIP-0412,Route D: South Dorms -> Sports Complex,2.79,14:19,Medium,8.14,10.23
+TRIP-0413,Route A: Main Gate -> North Hostels,3.45,12:33,Medium,14.72,13.44
+TRIP-0414,Route B: Central Library -> Academic Block Loop,1.27,06:59,Low,5.45,4.46
+TRIP-0415,Route C: Railway Station -> Engineering Quad,3.93,16:58,Medium,17.1,17.43
+TRIP-0416,Route D: South Dorms -> Sports Complex,4.7,13:44,Medium,14.99,16.94
+TRIP-0417,Route A: Main Gate -> North Hostels,1.7,20:27,Low,6.41,4.62
+TRIP-0418,Route B: Central Library -> Academic Block Loop,0.96,10:12,Low,4.13,4.8
+TRIP-0419,Route C: Railway Station -> Engineering Quad,8.94,15:54,Low,20.64,20.6
+TRIP-0420,Route D: South Dorms -> Sports Complex,3.14,09:01,High,15.82,16.32
+TRIP-0421,Route A: Main Gate -> North Hostels,2.79,06:43,High,11.81,11.93
+TRIP-0422,Route B: Central Library -> Academic Block Loop,0.93,10:13,Low,4.04,2.74
+TRIP-0423,Route C: Railway Station -> Engineering Quad,5.24,12:28,Medium,16.61,18.26
+TRIP-0424,Route D: South Dorms -> Sports Complex,1.82,09:38,High,11.56,11.78
+TRIP-0425,Route A: Main Gate -> North Hostels,2.49,14:45,Low,7.91,7.91
+TRIP-0426,Route B: Central Library -> Academic Block Loop,2.24,20:23,Low,6.72,7.63
+TRIP-0427,Route C: Railway Station -> Engineering Quad,4.78,20:54,Low,14.4,13.7
+TRIP-0428,Route D: South Dorms -> Sports Complex,2.1,16:40,Low,8.06,7.97
+TRIP-0429,Route A: Main Gate -> North Hostels,2.76,19:47,Low,8.06,8.49
+TRIP-0430,Route B: Central Library -> Academic Block Loop,0.81,13:27,Medium,6.53,6.0
+TRIP-0431,Route C: Railway Station -> Engineering Quad,8.56,10:41,Medium,26.95,27.56
+TRIP-0432,Route D: South Dorms -> Sports Complex,3.81,12:59,Medium,14.41,15.01
+TRIP-0433,Route A: Main Gate -> North Hostels,2.08,15:16,Low,7.73,7.1
+TRIP-0434,Route B: Central Library -> Academic Block Loop,2.47,18:40,High,10.46,11.06
+TRIP-0435,Route C: Railway Station -> Engineering Quad,6.22,09:08,High,28.47,28.01
+TRIP-0436,Route D: South Dorms -> Sports Complex,5.59,08:17,High,22.92,23.41
+TRIP-0437,Route A: Main Gate -> North Hostels,2.75,19:09,Low,8.04,8.07
+TRIP-0438,Route B: Central Library -> Academic Block Loop,1.92,08:20,High,11.6,12.33
+TRIP-0439,Route C: Railway Station -> Engineering Quad,4.87,15:37,Low,11.68,12.08
+TRIP-0440,Route D: South Dorms -> Sports Complex,2.15,22:00,Low,8.14,7.88
+TRIP-0441,Route A: Main Gate -> North Hostels,3.63,07:52,Low,8.38,9.31
+TRIP-0442,Route B: Central Library -> Academic Block Loop,1.3,12:00,Low,4.63,3.73
+TRIP-0443,Route C: Railway Station -> Engineering Quad,8.69,10:26,Low,21.99,22.75
+TRIP-0444,Route D: South Dorms -> Sports Complex,4.44,11:45,Low,9.34,10.15
+TRIP-0445,Route A: Main Gate -> North Hostels,3.16,20:05,Low,8.03,10.76
+TRIP-0446,Route B: Central Library -> Academic Block Loop,1.69,11:06,Low,4.04,5.05
+TRIP-0447,Route C: Railway Station -> Engineering Quad,5.29,09:33,Medium,18.43,18.67
+TRIP-0448,Route D: South Dorms -> Sports Complex,3.15,14:47,Low,8.88,9.66
+TRIP-0449,Route A: Main Gate -> North Hostels,3.75,14:35,Medium,13.19,13.79
+TRIP-0450,Route B: Central Library -> Academic Block Loop,1.5,17:19,High,12.77,13.84
+TRIP-0451,Route C: Railway Station -> Engineering Quad,6.46,08:28,High,27.25,27.36
+TRIP-0452,Route D: South Dorms -> Sports Complex,5.34,16:15,Low,14.7,14.17
+TRIP-0453,Route A: Main Gate -> North Hostels,3.48,07:04,Medium,12.49,14.6
+TRIP-0454,Route B: Central Library -> Academic Block Loop,1.89,13:01,Low,5.97,8.91
+TRIP-0455,Route C: Railway Station -> Engineering Quad,4.08,07:57,High,17.6,17.18
+TRIP-0456,Route D: South Dorms -> Sports Complex,2.93,21:34,Low,6.26,8.63
+TRIP-0457,Route A: Main Gate -> North Hostels,1.93,07:07,Medium,6.38,7.14
+TRIP-0458,Route B: Central Library -> Academic Block Loop,2.04,21:12,Low,7.05,4.14
+TRIP-0459,Route C: Railway Station -> Engineering Quad,5.62,11:32,Low,14.7,16.01
+TRIP-0460,Route D: South Dorms -> Sports Complex,5.46,21:55,Low,14.04,14.08
+TRIP-0461,Route A: Main Gate -> North Hostels,2.08,10:57,Low,5.97,4.37
+TRIP-0462,Route B: Central Library -> Academic Block Loop,2.38,07:00,Low,7.81,8.42
+TRIP-0463,Route C: Railway Station -> Engineering Quad,4.47,21:47,Low,14.17,12.32
+TRIP-0464,Route D: South Dorms -> Sports Complex,3.79,15:30,Low,11.69,11.32
+TRIP-0465,Route A: Main Gate -> North Hostels,2.29,17:11,High,16.76,16.23
+TRIP-0466,Route B: Central Library -> Academic Block Loop,0.86,09:08,Low,,6.59
+TRIP-0467,Route C: Railway Station -> Engineering Quad,7.53,07:32,Medium,22.35,23.05
+TRIP-0468,Route D: South Dorms -> Sports Complex,1.81,07:22,Medium,3.47,5.51
+TRIP-0469,Route A: Main Gate -> North Hostels,2.28,18:50,Medium,8.67,10.24
+TRIP-0470,Route B: Central Library -> Academic Block Loop,1.0,19:23,Low,5.69,4.7
+TRIP-0471,Route C: Railway Station -> Engineering Quad,7.14,17:07,Medium,25.7,28.36
+TRIP-0472,Route D: South Dorms -> Sports Complex,3.89,13:40,Medium,15.71,15.14
+TRIP-0473,Route A: Main Gate -> North Hostels,2.11,08:49,High,14.75,14.03
+TRIP-0474,Route B: Central Library -> Academic Block Loop,1.97,19:38,Low,6.35,6.25
+TRIP-0475,Route C: Railway Station -> Engineering Quad,3.04,18:19,High,15.39,16.16
+TRIP-0476,Route D: South Dorms -> Sports Complex,2.01,15:41,Low,3.5,5.18
+TRIP-0477,Route A: Main Gate -> North Hostels,2.74,21:52,Low,6.78,9.14
+TRIP-0478,Route B: Central Library -> Academic Block Loop,1.73,15:45,Medium,6.94,7.36
+TRIP-0479,Route C: Railway Station -> Engineering Quad,8.07,10:20,Low,20.41,21.92
+TRIP-0480,Route D: South Dorms -> Sports Complex,5.6,17:04,,24.53,25.98
+TRIP-0481,Route A: Main Gate -> North Hostels,2.44,08:10,Medium,9.96,9.63
+TRIP-0482,Route B: Central Library -> Academic Block Loop,2.4,08:25,Medium,10.93,12.99
+TRIP-0483,Route C: Railway Station -> Engineering Quad,8.7,17:45,Low,23.16,24.41
+TRIP-0484,Route D: South Dorms -> Sports Complex,4.87,19:20,Medium,13.52,14.66
+TRIP-0485,Route A: Main Gate -> North Hostels,3.02,21:20,Low,9.25,10.09
+TRIP-0486,Route B: Central Library -> Academic Block Loop,2.08,21:58,Low,3.99,5.86
+TRIP-0487,Route C: Railway Station -> Engineering Quad,5.92,15:22,Low,14.72,14.58
+TRIP-0488,Route D: South Dorms -> Sports Complex,4.15,16:41,High,19.37,18.9
+TRIP-0489,Route A: Main Gate -> North Hostels,2.82,14:50,Low,5.77,7.66
+TRIP-0490,Route B: Central Library -> Academic Block Loop,1.68,20:02,Medium,5.39,7.97
+TRIP-0491,Route C: Railway Station -> Engineering Quad,4.2,17:53,High,21.39,19.98
+TRIP-0492,Route D: South Dorms -> Sports Complex,3.13,13:25,High,12.46,14.11
+TRIP-0493,Route A: Main Gate -> North Hostels,2.12,07:17,Low,8.02,9.45
+TRIP-0494,Route B: Central Library -> Academic Block Loop,2.42,14:20,Low,5.35,7.9
+TRIP-0495,Route C: Railway Station -> Engineering Quad,8.14,12:27,High,30.59,31.18
+TRIP-0496,Route D: South Dorms -> Sports Complex,3.39,07:17,High,14.41,15.32
+TRIP-0497,Route A: Main Gate -> North Hostels,2.62,09:47,Medium,13.85,11.54
+TRIP-0498,Route B: Central Library -> Academic Block Loop,1.95,21:14,Medium,6.64,6.85
+TRIP-0499,Route C: Railway Station -> Engineering Quad,8.96,21:01,Low,21.87,23.4
+TRIP-0500,Route D: South Dorms -> Sports Complex,3.46,08:21,Low,9.93,9.91
+TRIP-0501,Route A: Main Gate -> North Hostels,1.52,10:01,Low,4.54,4.87
+TRIP-0502,Route B: Central Library -> Academic Block Loop,1.74,12:12,Low,5.69,5.78
+TRIP-0503,Route C: Railway Station -> Engineering Quad,8.79,20:29,Medium,26.54,25.06
+TRIP-0504,Route D: South Dorms -> Sports Complex,4.38,17:12,Low,17.25,15.19
+TRIP-0505,Route A: Main Gate -> North Hostels,3.25,12:21,Low,9.79,10.26
+TRIP-0506,Route B: Central Library -> Academic Block Loop,1.52,11:46,Low,5.59,5.53
+TRIP-0507,Route C: Railway Station -> Engineering Quad,9.16,09:11,Medium,29.2,31.76
+TRIP-0508,Route D: South Dorms -> Sports Complex,3.79,16:29,Medium,13.36,15.47
+TRIP-0509,Route A: Main Gate -> North Hostels,1.19,10:34,Low,4.97,5.96
+TRIP-0510,Route B: Central Library -> Academic Block Loop,1.95,18:04,High,12.39,11.6
+TRIP-0511,Route C: Railway Station -> Engineering Quad,3.0,08:03,High,15.31,15.14
+TRIP-0512,Route D: South Dorms -> Sports Complex,4.04,18:08,High,18.98,17.19
+TRIP-0513,Route A: Main Gate -> North Hostels,3.02,19:49,Low,9.09,8.63
+TRIP-0514,Route B: Central Library -> Academic Block Loop,2.23,07:41,Low,7.1,6.95
+TRIP-0515,Route C: Railway Station -> Engineering Quad,4.95,09:04,Medium,,19.67
+TRIP-0516,Route D: South Dorms -> Sports Complex,5.43,16:37,Medium,17.91,18.22
+TRIP-0517,Route A: Main Gate -> North Hostels,1.36,12:48,High,9.5,9.75
+TRIP-0518,Route B: Central Library -> Academic Block Loop,1.93,13:35,High,,10.28
+TRIP-0519,Route C: Railway Station -> Engineering Quad,6.8,10:06,Low,15.09,16.83
+TRIP-0520,Route D: South Dorms -> Sports Complex,5.13,14:08,Low,13.23,11.7
+TRIP-0521,Route A: Main Gate -> North Hostels,1.66,19:51,Medium,7.04,6.96
+TRIP-0522,Route B: Central Library -> Academic Block Loop,2.45,10:02,Medium,8.06,9.3
+TRIP-0523,Route C: Railway Station -> Engineering Quad,6.45,11:49,Low,19.51,18.7
+TRIP-0524,Route D: South Dorms -> Sports Complex,3.78,20:16,Medium,12.99,12.14
+TRIP-0525,Route A: Main Gate -> North Hostels,2.38,09:45,High,10.49,12.64
+TRIP-0526,Route B: Central Library -> Academic Block Loop,2.09,15:25,Medium,9.18,8.63
+TRIP-0527,Route C: Railway Station -> Engineering Quad,7.57,18:53,Medium,22.27,25.84
+TRIP-0528,Route D: South Dorms -> Sports Complex,3.46,19:07,Medium,10.62,12.91
+TRIP-0529,Route A: Main Gate -> North Hostels,2.19,15:16,Low,5.8,7.91
+TRIP-0530,Route B: Central Library -> Academic Block Loop,1.44,12:36,Medium,6.22,6.12
+TRIP-0531,Route C: Railway Station -> Engineering Quad,8.66,07:35,Medium,24.34,27.29
+TRIP-0532,Route D: South Dorms -> Sports Complex,3.58,12:41,Medium,12.61,13.52
+TRIP-0533,Route A: Main Gate -> North Hostels,2.4,19:11,Medium,7.81,7.89
+TRIP-0534,Route B: Central Library -> Academic Block Loop,2.26,08:53,High,13.08,14.97
+TRIP-0535,Route C: Railway Station -> Engineering Quad,4.31,16:54,Medium,16.91,16.23
+TRIP-0536,Route D: South Dorms -> Sports Complex,3.3,20:04,High,15.46,14.46
+TRIP-0537,Route A: Main Gate -> North Hostels,2.19,20:00,Medium,8.83,8.45
+TRIP-0538,Route B: Central Library -> Academic Block Loop,2.18,17:30,Medium,11.17,13.32
+TRIP-0539,Route C: Railway Station -> Engineering Quad,3.86,16:28,High,15.9,15.24
+TRIP-0540,Route D: South Dorms -> Sports Complex,5.3,10:01,Low,13.33,14.47
+TRIP-0541,Route A: Main Gate -> North Hostels,2.63,14:26,Medium,8.21,8.56
+TRIP-0542,Route B: Central Library -> Academic Block Loop,1.03,17:59,High,8.4,8.09
+TRIP-0543,Route C: Railway Station -> Engineering Quad,8.65,06:33,Low,21.99,23.46
+TRIP-0544,Route D: South Dorms -> Sports Complex,2.85,13:38,Low,9.9,11.48
+TRIP-0545,Route A: Main Gate -> North Hostels,2.68,07:57,Medium,12.23,11.24
+TRIP-0546,Route B: Central Library -> Academic Block Loop,1.38,18:38,Low,5.48,3.66
+TRIP-0547,Route C: Railway Station -> Engineering Quad,2.95,10:00,Low,7.12,7.34
+TRIP-0548,Route D: South Dorms -> Sports Complex,5.39,18:52,Medium,18.61,18.78
+TRIP-0549,Route A: Main Gate -> North Hostels,2.55,16:37,High,14.38,12.84
+TRIP-0550,Route B: Central Library -> Academic Block Loop,0.86,21:09,Low,3.24,3.9
+TRIP-0551,Route C: Railway Station -> Engineering Quad,9.3,09:00,High,37.59,39.35
+TRIP-0552,Route D: South Dorms -> Sports Complex,4.86,12:00,Low,13.15,13.55
+TRIP-0553,Route A: Main Gate -> North Hostels,1.49,08:19,Low,7.32,8.71
+TRIP-0554,Route B: Central Library -> Academic Block Loop,1.12,17:13,High,9.16,8.77
+TRIP-0555,Route C: Railway Station -> Engineering Quad,5.29,19:27,Low,11.93,11.89
+TRIP-0556,Route D: South Dorms -> Sports Complex,5.24,15:29,Low,12.92,12.61
+TRIP-0557,Route A: Main Gate -> North Hostels,3.22,21:58,Low,7.65,9.27
+TRIP-0558,Route B: Central Library -> Academic Block Loop,0.95,10:18,Low,5.51,5.74
+TRIP-0559,Route C: Railway Station -> Engineering Quad,3.83,07:12,High,14.37,16.07
+TRIP-0560,Route D: South Dorms -> Sports Complex,1.83,15:10,Low,7.17,5.16
+TRIP-0561,Route A: Main Gate -> North Hostels,3.63,10:58,Low,10.94,9.73
+TRIP-0562,Route B: Central Library -> Academic Block Loop,2.49,17:57,Medium,10.52,10.53
+TRIP-0563,Route C: Railway Station -> Engineering Quad,7.61,09:56,Low,20.5,21.37
+TRIP-0564,Route D: South Dorms -> Sports Complex,4.56,16:28,Low,12.81,16.28
+TRIP-0565,Route A: Main Gate -> North Hostels,1.24,18:42,Low,3.51,6.06
+TRIP-0566,Route B: Central Library -> Academic Block Loop,1.11,15:37,Low,4.72,4.61
+TRIP-0567,Route C: Railway Station -> Engineering Quad,5.23,12:24,Medium,17.08,19.47
+TRIP-0568,Route D: South Dorms -> Sports Complex,4.87,21:04,Low,14.01,14.12
+TRIP-0569,Route A: Main Gate -> North Hostels,2.25,14:39,Low,5.91,6.35
+TRIP-0570,Route B: Central Library -> Academic Block Loop,0.96,12:52,Medium,5.25,6.24
+TRIP-0571,Route C: Railway Station -> Engineering Quad,6.85,13:36,Low,16.63,17.59
+TRIP-0572,Route D: South Dorms -> Sports Complex,2.86,12:43,Medium,11.57,11.3
+TRIP-0573,Route A: Main Gate -> North Hostels,1.37,15:01,Low,5.82,3.62
+TRIP-0574,Route B: Central Library -> Academic Block Loop,0.78,21:05,Low,3.31,3.26
+TRIP-0575,Route C: Railway Station -> Engineering Quad,9.24,16:04,Low,26.4,23.95
+TRIP-0576,Route D: South Dorms -> Sports Complex,5.77,09:40,High,24.48,24.57
+TRIP-0577,Route A: Main Gate -> North Hostels,3.65,08:49,High,18.22,18.45
+TRIP-0578,Route B: Central Library -> Academic Block Loop,2.46,07:24,High,10.26,10.01
+TRIP-0579,Route C: Railway Station -> Engineering Quad,3.72,14:46,Low,11.36,10.64
+TRIP-0580,Route D: South Dorms -> Sports Complex,2.73,19:45,Low,6.6,9.14
+TRIP-0581,Route A: Main Gate -> North Hostels,1.14,09:00,High,8.12,7.56
+TRIP-0582,Route B: Central Library -> Academic Block Loop,1.96,15:37,Low,4.66,4.4
+TRIP-0583,Route C: Railway Station -> Engineering Quad,4.11,15:14,Medium,14.23,12.16
+TRIP-0584,Route D: South Dorms -> Sports Complex,3.05,07:50,Low,9.47,7.26
+TRIP-0585,Route A: Main Gate -> North Hostels,1.73,19:08,,6.11,6.24
+TRIP-0586,Route B: Central Library -> Academic Block Loop,1.31,18:52,High,7.24,7.75
+TRIP-0587,Route C: Railway Station -> Engineering Quad,7.88,08:48,High,32.35,32.62
+TRIP-0588,Route D: South Dorms -> Sports Complex,2.37,06:41,Low,6.03,6.05
+TRIP-0589,Route A: Main Gate -> North Hostels,3.76,08:04,High,17.01,16.47
+TRIP-0590,Route B: Central Library -> Academic Block Loop,1.31,10:54,Low,5.91,4.61
+TRIP-0591,Route C: Railway Station -> Engineering Quad,7.04,08:29,High,29.48,28.96
+TRIP-0592,Route D: South Dorms -> Sports Complex,4.44,17:30,High,21.16,19.36
+TRIP-0593,Route A: Main Gate -> North Hostels,1.88,08:03,High,12.79,10.45
+TRIP-0594,Route B: Central Library -> Academic Block Loop,0.84,15:00,Low,2.0,2.34
+TRIP-0595,Route C: Railway Station -> Engineering Quad,8.18,11:18,Low,20.44,19.31
+TRIP-0596,Route D: South Dorms -> Sports Complex,4.44,09:45,High,20.54,21.15
+TRIP-0597,Route A: Main Gate -> North Hostels,2.74,10:18,Low,9.9,8.49
+TRIP-0598,Route B: Central Library -> Academic Block Loop,1.79,08:13,Low,,7.38
+TRIP-0599,Route C: Railway Station -> Engineering Quad,8.63,18:19,Medium,27.96,29.08
+TRIP-0600,Route D: South Dorms -> Sports Complex,5.66,07:55,Low,15.01,13.01
+TRIP-0601,Route A: Main Gate -> North Hostels,2.41,15:21,Low,7.2,7.48
+TRIP-0602,Route B: Central Library -> Academic Block Loop,2.27,15:50,Low,7.4,6.56
+TRIP-0603,Route C: Railway Station -> Engineering Quad,4.41,10:04,High,17.3,20.47
+TRIP-0604,Route D: South Dorms -> Sports Complex,1.74,09:21,High,10.64,10.33
+TRIP-0605,Route A: Main Gate -> North Hostels,3.2,13:26,High,13.38,14.07
+TRIP-0606,Route B: Central Library -> Academic Block Loop,1.88,20:44,Low,5.66,7.5
+TRIP-0607,Route C: Railway Station -> Engineering Quad,7.03,18:38,Medium,21.61,22.78
+TRIP-0608,Route D: South Dorms -> Sports Complex,2.61,10:41,Low,8.35,9.72
+TRIP-0609,Route A: Main Gate -> North Hostels,3.52,12:18,Medium,11.71,11.41
+TRIP-0610,Route B: Central Library -> Academic Block Loop,2.04,13:27,Low,9.52,9.4
+TRIP-0611,Route C: Railway Station -> Engineering Quad,7.53,19:58,High,27.91,26.96
+TRIP-0612,Route D: South Dorms -> Sports Complex,4.25,10:39,Low,14.38,12.32
+TRIP-0613,Route A: Main Gate -> North Hostels,3.24,18:18,Low,9.47,9.55
+TRIP-0614,Route B: Central Library -> Academic Block Loop,1.71,20:45,Medium,5.97,4.44
+TRIP-0615,Route C: Railway Station -> Engineering Quad,9.13,13:43,Low,22.41,23.47
+TRIP-0616,Route D: South Dorms -> Sports Complex,2.79,09:08,High,13.02,13.66
+TRIP-0617,Route A: Main Gate -> North Hostels,3.19,16:26,Low,8.54,10.21
+TRIP-0618,Route B: Central Library -> Academic Block Loop,1.07,21:02,Low,3.82,3.13
+TRIP-0619,Route C: Railway Station -> Engineering Quad,7.08,13:30,Medium,22.15,22.98
+TRIP-0620,Route D: South Dorms -> Sports Complex,2.84,10:44,Low,8.7,9.4
+TRIP-0621,Route A: Main Gate -> North Hostels,2.36,09:27,Medium,9.29,10.24
+TRIP-0622,Route B: Central Library -> Academic Block Loop,1.96,21:08,Low,5.32,5.16
+TRIP-0623,Route C: Railway Station -> Engineering Quad,3.01,17:41,High,19.25,17.77
+TRIP-0624,Route D: South Dorms -> Sports Complex,4.95,12:20,Medium,17.4,19.65
+TRIP-0625,Route A: Main Gate -> North Hostels,1.29,19:19,Medium,3.46,5.73
+TRIP-0626,Route B: Central Library -> Academic Block Loop,2.27,09:21,Low,6.62,6.97
+TRIP-0627,Route C: Railway Station -> Engineering Quad,3.55,09:23,Medium,14.33,13.95
+TRIP-0628,Route D: South Dorms -> Sports Complex,5.53,11:20,High,20.44,21.92
+TRIP-0629,Route A: Main Gate -> North Hostels,3.06,15:49,Low,10.02,8.64
+TRIP-0630,Route B: Central Library -> Academic Block Loop,0.87,15:52,High,4.87,7.68
+TRIP-0631,Route C: Railway Station -> Engineering Quad,9.26,17:01,Low,26.55,27.66
+TRIP-0632,Route D: South Dorms -> Sports Complex,1.73,14:22,Medium,7.3,
+TRIP-0633,Route A: Main Gate -> North Hostels,1.59,07:24,Low,7.55,7.16
+TRIP-0634,Route B: Central Library -> Academic Block Loop,0.99,10:58,Low,3.6,2.96
+TRIP-0635,Route C: Railway Station -> Engineering Quad,7.37,16:33,Medium,25.23,25.85
+TRIP-0636,Route D: South Dorms -> Sports Complex,2.36,20:57,Low,7.42,6.49
+TRIP-0637,Route A: Main Gate -> North Hostels,2.89,20:53,Low,8.13,7.64
+TRIP-0638,Route B: Central Library -> Academic Block Loop,0.93,07:59,Low,6.32,6.12
+TRIP-0639,Route C: Railway Station -> Engineering Quad,6.64,08:46,High,27.41,28.57
+TRIP-0640,Route D: South Dorms -> Sports Complex,2.88,11:37,Low,9.37,8.76
+TRIP-0641,Route A: Main Gate -> North Hostels,3.01,08:39,High,14.53,16.14
+TRIP-0642,Route B: Central Library -> Academic Block Loop,1.89,14:00,Medium,11.65,9.34
+TRIP-0643,Route C: Railway Station -> Engineering Quad,3.39,09:03,Medium,15.06,15.56
+TRIP-0644,Route D: South Dorms -> Sports Complex,3.19,11:30,Medium,9.78,10.15
+TRIP-0645,Route A: Main Gate -> North Hostels,1.94,08:17,High,12.13,12.87
+TRIP-0646,Route B: Central Library -> Academic Block Loop,2.3,13:49,High,12.64,12.4
+TRIP-0647,Route C: Railway Station -> Engineering Quad,5.97,07:05,Medium,16.66,17.65
+TRIP-0648,Route D: South Dorms -> Sports Complex,4.07,07:10,Low,9.5,9.84
+TRIP-0649,Route A: Main Gate -> North Hostels,2.42,11:45,Low,6.18,7.15
+TRIP-0650,Route B: Central Library -> Academic Block Loop,2.43,08:40,High,12.01,13.24
+TRIP-0651,Route C: Railway Station -> Engineering Quad,7.44,17:25,High,,32.75
+TRIP-0652,Route D: South Dorms -> Sports Complex,3.06,08:08,High,15.31,15.62
+TRIP-0653,Route A: Main Gate -> North Hostels,1.38,09:27,High,9.07,10.09
+TRIP-0654,Route B: Central Library -> Academic Block Loop,0.9,13:13,Medium,4.54,7.07
+TRIP-0655,Route C: Railway Station -> Engineering Quad,5.99,14:03,Medium,19.54,18.23
+TRIP-0656,Route D: South Dorms -> Sports Complex,3.71,06:55,High,14.06,15.15
+TRIP-0657,Route A: Main Gate -> North Hostels,3.84,17:38,Low,11.41,12.5
+TRIP-0658,Route B: Central Library -> Academic Block Loop,1.81,07:37,High,8.5,9.71
+TRIP-0659,Route C: Railway Station -> Engineering Quad,6.82,11:01,Low,15.4,17.97
+TRIP-0660,Route D: South Dorms -> Sports Complex,2.07,11:19,Low,6.94,7.05
+TRIP-0661,Route A: Main Gate -> North Hostels,3.3,15:52,Medium,11.75,13.1
+TRIP-0662,Route B: Central Library -> Academic Block Loop,1.64,09:57,Medium,6.71,7.57
+TRIP-0663,Route C: Railway Station -> Engineering Quad,4.34,12:11,Low,11.69,12.4
+TRIP-0664,Route D: South Dorms -> Sports Complex,2.93,14:34,Low,7.7,8.74
+TRIP-0665,Route A: Main Gate -> North Hostels,1.4,14:18,Low,4.04,5.99
+TRIP-0666,Route B: Central Library -> Academic Block Loop,2.12,12:35,Low,5.2,5.82
+TRIP-0667,Route C: Railway Station -> Engineering Quad,4.91,14:11,Low,12.66,15.16
+TRIP-0668,Route D: South Dorms -> Sports Complex,4.54,16:50,Medium,16.25,18.37
+TRIP-0669,Route A: Main Gate -> North Hostels,2.74,11:23,Low,6.42,7.26
+TRIP-0670,Route B: Central Library -> Academic Block Loop,0.98,13:20,High,6.8,8.13
+TRIP-0671,Route C: Railway Station -> Engineering Quad,3.81,14:22,Low,10.71,11.43
+TRIP-0672,Route D: South Dorms -> Sports Complex,3.61,21:17,Low,13.85,12.06
+TRIP-0673,Route A: Main Gate -> North Hostels,2.63,09:38,High,12.37,12.54
+TRIP-0674,Route B: Central Library -> Academic Block Loop,1.52,10:40,Low,6.5,6.63
+TRIP-0675,Route C: Railway Station -> Engineering Quad,2.92,17:59,High,15.87,13.92
+TRIP-0676,Route D: South Dorms -> Sports Complex,4.6,16:33,Low,14.92,14.81
+TRIP-0677,Route A: Main Gate -> North Hostels,3.59,20:07,Medium,11.6,12.14
+TRIP-0678,Route B: Central Library -> Academic Block Loop,1.64,08:04,High,9.61,9.52
+TRIP-0679,Route C: Railway Station -> Engineering Quad,3.09,11:09,Low,,7.57
+TRIP-0680,Route D: South Dorms -> Sports Complex,1.95,19:41,Medium,5.39,6.57
+TRIP-0681,Route A: Main Gate -> North Hostels,2.22,08:53,High,11.91,13.08
+TRIP-0682,Route B: Central Library -> Academic Block Loop,2.38,19:14,Medium,8.19,5.86
+TRIP-0683,Route C: Railway Station -> Engineering Quad,4.37,07:41,Medium,13.36,14.77
+TRIP-0684,Route D: South Dorms -> Sports Complex,1.74,15:45,Low,4.46,5.89
+TRIP-0685,Route A: Main Gate -> North Hostels,2.11,20:07,Low,6.71,6.75
+TRIP-0686,Route B: Central Library -> Academic Block Loop,1.32,19:14,Medium,4.9,5.53
+TRIP-0687,Route C: Railway Station -> Engineering Quad,2.96,21:52,Medium,8.88,9.66
+TRIP-0688,Route D: South Dorms -> Sports Complex,1.8,18:46,Medium,6.47,7.15
+TRIP-0689,Route A: Main Gate -> North Hostels,1.9,18:09,High,8.69,9.73
+TRIP-0690,Route B: Central Library -> Academic Block Loop,1.29,21:29,Low,3.03,4.64
+TRIP-0691,Route C: Railway Station -> Engineering Quad,5.45,15:04,Low,11.38,12.77
+TRIP-0692,Route D: South Dorms -> Sports Complex,5.6,15:15,Low,15.64,13.54
+TRIP-0693,Route A: Main Gate -> North Hostels,2.65,17:21,High,14.53,16.98
+TRIP-0694,Route B: Central Library -> Academic Block Loop,1.11,14:13,Low,4.51,2.36
+TRIP-0695,Route C: Railway Station -> Engineering Quad,6.77,08:30,High,27.05,28.78
+TRIP-0696,Route D: South Dorms -> Sports Complex,3.35,19:44,Low,10.76,9.98
+TRIP-0697,Route A: Main Gate -> North Hostels,2.87,17:38,High,19.32,17.76
+TRIP-0698,Route B: Central Library -> Academic Block Loop,1.95,10:49,Medium,8.47,6.31
+TRIP-0699,Route C: Railway Station -> Engineering Quad,9.17,20:45,Low,20.5,22.7
+TRIP-0700,Route D: South Dorms -> Sports Complex,3.98,18:22,Medium,16.85,17.69
+TRIP-0701,Route A: Main Gate -> North Hostels,2.16,14:21,Low,8.3,7.2
+TRIP-0702,Route B: Central Library -> Academic Block Loop,2.23,14:00,Low,7.34,5.9
+TRIP-0703,Route C: Railway Station -> Engineering Quad,3.82,17:26,High,21.04,19.42
+TRIP-0704,Route D: South Dorms -> Sports Complex,2.36,11:12,Medium,9.6,9.28
+TRIP-0705,Route A: Main Gate -> North Hostels,1.73,11:37,Low,6.31,8.21
+TRIP-0706,Route B: Central Library -> Academic Block Loop,0.94,19:42,Medium,5.81,3.52
+TRIP-0707,Route C: Railway Station -> Engineering Quad,6.17,11:02,Medium,17.43,19.66
+TRIP-0708,Route D: South Dorms -> Sports Complex,4.31,14:28,Low,11.57,11.33
+TRIP-0709,Route A: Main Gate -> North Hostels,1.62,21:35,Medium,7.62,8.19
+TRIP-0710,Route B: Central Library -> Academic Block Loop,2.23,11:15,Low,6.31,5.41
+TRIP-0711,Route C: Railway Station -> Engineering Quad,5.69,11:30,Low,16.46,15.58
+TRIP-0712,Route D: South Dorms -> Sports Complex,4.82,07:39,Medium,16.74,16.4
+TRIP-0713,Route A: Main Gate -> North Hostels,3.09,20:41,Medium,10.77,12.64
+TRIP-0714,Route B: Central Library -> Academic Block Loop,2.13,11:02,Medium,6.5,8.11
+TRIP-0715,Route C: Railway Station -> Engineering Quad,3.31,07:11,High,14.46,14.21
+TRIP-0716,Route D: South Dorms -> Sports Complex,2.91,08:31,High,16.05,15.13
+TRIP-0717,Route A: Main Gate -> North Hostels,1.13,08:43,Medium,6.83,9.46
+TRIP-0718,Route B: Central Library -> Academic Block Loop,1.91,11:35,Low,5.87,7.76
+TRIP-0719,Route C: Railway Station -> Engineering Quad,7.33,12:10,Low,19.5,18.19
+TRIP-0720,Route D: South Dorms -> Sports Complex,4.3,10:48,Low,10.18,11.34
+TRIP-0721,Route A: Main Gate -> North Hostels,2.64,20:13,Medium,8.93,8.71
+TRIP-0722,Route B: Central Library -> Academic Block Loop,0.92,21:28,Low,4.38,3.22
+TRIP-0723,Route C: Railway Station -> Engineering Quad,3.14,19:15,Low,9.96,9.14
+TRIP-0724,Route D: South Dorms -> Sports Complex,2.87,06:58,Medium,8.86,10.57
+TRIP-0725,Route A: Main Gate -> North Hostels,3.18,11:56,Low,11.04,11.88
+TRIP-0726,Route B: Central Library -> Academic Block Loop,1.27,09:45,Low,6.71,6.9
+TRIP-0727,Route C: Railway Station -> Engineering Quad,3.28,08:57,Medium,14.05,13.81
+TRIP-0728,Route D: South Dorms -> Sports Complex,2.6,20:35,Medium,9.93,8.3
+TRIP-0729,Route A: Main Gate -> North Hostels,2.26,09:46,Low,7.67,8.25
+TRIP-0730,Route B: Central Library -> Academic Block Loop,1.38,15:58,Low,4.06,4.29
+TRIP-0731,Route C: Railway Station -> Engineering Quad,8.55,11:29,Low,21.57,21.34
+TRIP-0732,Route D: South Dorms -> Sports Complex,4.79,09:09,Medium,15.67,19.09
+TRIP-0733,Route A: Main Gate -> North Hostels,1.38,11:54,Medium,8.17,7.18
+TRIP-0734,Route B: Central Library -> Academic Block Loop,0.8,15:48,Low,4.71,4.1
+TRIP-0735,Route C: Railway Station -> Engineering Quad,5.54,11:08,Low,13.45,12.26
+TRIP-0736,Route D: South Dorms -> Sports Complex,4.11,17:06,Low,14.53,14.32
+TRIP-0737,Route A: Main Gate -> North Hostels,2.94,13:18,High,15.84,15.26
+TRIP-0738,Route B: Central Library -> Academic Block Loop,2.51,18:12,High,14.42,14.38
+TRIP-0739,Route C: Railway Station -> Engineering Quad,8.05,20:59,Low,19.53,19.96
+TRIP-0740,Route D: South Dorms -> Sports Complex,5.26,13:11,High,22.87,21.84
+TRIP-0741,Route A: Main Gate -> North Hostels,1.8,17:30,High,11.12,11.69
+TRIP-0742,Route B: Central Library -> Academic Block Loop,1.76,15:29,Low,7.45,6.51
+TRIP-0743,Route C: Railway Station -> Engineering Quad,7.54,18:50,Low,19.88,20.42
+TRIP-0744,Route D: South Dorms -> Sports Complex,5.28,14:25,Low,12.55,13.67
+TRIP-0745,Route A: Main Gate -> North Hostels,3.5,11:18,Low,9.93,9.73
+TRIP-0746,Route B: Central Library -> Academic Block Loop,1.54,18:09,Medium,5.68,7.48
+TRIP-0747,Route C: Railway Station -> Engineering Quad,4.57,20:53,Low,9.24,9.73
+TRIP-0748,Route D: South Dorms -> Sports Complex,2.08,10:21,Low,5.51,6.34
+TRIP-0749,Route A: Main Gate -> North Hostels,2.04,16:46,High,11.28,10.86
+TRIP-0750,Route B: Central Library -> Academic Block Loop,1.95,19:11,Medium,11.02,10.43
+TRIP-0751,Route C: Railway Station -> Engineering Quad,3.25,18:15,High,13.39,16.23
+TRIP-0752,Route D: South Dorms -> Sports Complex,5.6,10:00,Low,13.37,13.35
+TRIP-0753,Route A: Main Gate -> North Hostels,1.47,11:55,Low,4.25,5.59
+TRIP-0754,Route B: Central Library -> Academic Block Loop,0.78,08:53,High,7.95,7.99
+TRIP-0755,Route C: Railway Station -> Engineering Quad,7.89,12:56,Medium,25.95,25.73
+TRIP-0756,Route D: South Dorms -> Sports Complex,3.02,09:16,Low,11.48,11.67
+TRIP-0757,Route A: Main Gate -> North Hostels,2.83,21:00,Medium,11.05,10.44
+TRIP-0758,Route B: Central Library -> Academic Block Loop,1.74,07:27,Low,6.15,6.32
+TRIP-0759,Route C: Railway Station -> Engineering Quad,4.59,17:08,High,21.1,22.04
+TRIP-0760,Route D: South Dorms -> Sports Complex,3.96,06:59,Medium,12.12,12.52
+TRIP-0761,Route A: Main Gate -> North Hostels,2.01,21:00,Low,6.92,9.49
+TRIP-0762,Route B: Central Library -> Academic Block Loop,1.47,13:47,Medium,6.22,8.38
+TRIP-0763,Route C: Railway Station -> Engineering Quad,2.99,18:49,Low,9.68,9.03
+TRIP-0764,Route D: South Dorms -> Sports Complex,4.43,15:56,Medium,14.47,13.68
+TRIP-0765,Route A: Main Gate -> North Hostels,3.04,10:10,Low,9.82,9.73
+TRIP-0766,Route B: Central Library -> Academic Block Loop,1.39,12:34,Medium,8.47,8.35
+TRIP-0767,Route C: Railway Station -> Engineering Quad,5.63,17:27,Low,15.85,17.87
+TRIP-0768,Route D: South Dorms -> Sports Complex,4.53,11:50,Medium,13.72,15.35
+TRIP-0769,Route A: Main Gate -> North Hostels,1.82,16:07,Low,3.86,4.59
+TRIP-0770,Route B: Central Library -> Academic Block Loop,0.93,08:21,High,7.46,7.98
+TRIP-0771,Route C: Railway Station -> Engineering Quad,9.05,06:49,Low,24.07,22.95
+TRIP-0772,Route D: South Dorms -> Sports Complex,4.68,13:41,High,20.81,19.07
+TRIP-0773,Route A: Main Gate -> North Hostels,3.43,20:54,Low,8.84,8.56
+TRIP-0774,Route B: Central Library -> Academic Block Loop,1.66,14:37,Medium,3.19,4.69
+TRIP-0775,Route C: Railway Station -> Engineering Quad,5.38,08:34,Medium,20.11,20.08
+TRIP-0776,Route D: South Dorms -> Sports Complex,4.65,14:43,Low,11.59,11.49
+TRIP-0777,Route A: Main Gate -> North Hostels,3.52,14:59,Medium,11.41,12.97
+TRIP-0778,Route B: Central Library -> Academic Block Loop,2.28,12:29,Medium,9.15,9.4
+TRIP-0779,Route C: Railway Station -> Engineering Quad,6.34,16:44,Medium,20.48,20.97
+TRIP-0780,Route D: South Dorms -> Sports Complex,3.16,20:48,Low,10.6,9.92
+TRIP-0781,Route A: Main Gate -> North Hostels,3.37,08:39,High,16.78,15.91
+TRIP-0782,Route B: Central Library -> Academic Block Loop,1.65,07:04,Medium,6.71,4.35
+TRIP-0783,Route C: Railway Station -> Engineering Quad,7.03,14:13,Low,16.84,18.6
+TRIP-0784,Route D: South Dorms -> Sports Complex,2.51,15:56,Low,7.76,5.92
+TRIP-0785,Route A: Main Gate -> North Hostels,1.37,20:04,Low,5.16,3.67
+TRIP-0786,Route B: Central Library -> Academic Block Loop,2.42,17:35,Low,7.95,8.51
+TRIP-0787,Route C: Railway Station -> Engineering Quad,9.01,08:09,Medium,29.57,29.86
+TRIP-0788,Route D: South Dorms -> Sports Complex,4.61,10:45,Low,10.26,12.06
+TRIP-0789,Route A: Main Gate -> North Hostels,2.3,08:43,High,13.77,13.35
+TRIP-0790,Route B: Central Library -> Academic Block Loop,1.09,07:41,Low,3.59,4.4
+TRIP-0791,Route C: Railway Station -> Engineering Quad,6.0,16:36,Low,16.05,15.82
+TRIP-0792,Route D: South Dorms -> Sports Complex,2.69,12:16,Low,9.4,7.42
+TRIP-0793,Route A: Main Gate -> North Hostels,3.81,21:57,High,16.04,16.85
+TRIP-0794,Route B: Central Library -> Academic Block Loop,1.31,10:11,Low,2.68,6.73
+TRIP-0795,Route C: Railway Station -> Engineering Quad,4.98,09:18,High,20.08,23.32
+TRIP-0796,Route D: South Dorms -> Sports Complex,2.72,14:51,Low,4.74,6.56
+TRIP-0797,Route A: Main Gate -> North Hostels,1.56,15:59,Low,6.11,6.26
+TRIP-0798,Route B: Central Library -> Academic Block Loop,0.81,15:16,Low,3.44,4.45
+TRIP-0799,Route C: Railway Station -> Engineering Quad,3.31,17:41,Medium,13.24,13.13
+TRIP-0800,Route D: South Dorms -> Sports Complex,5.47,18:51,High,22.26,22.71
+TRIP-0801,Route A: Main Gate -> North Hostels,2.43,20:32,Low,9.02,8.08
+TRIP-0802,Route B: Central Library -> Academic Block Loop,1.71,08:25,Medium,10.11,11.06
+TRIP-0803,Route C: Railway Station -> Engineering Quad,5.24,19:14,Low,13.37,13.72
+TRIP-0804,Route D: South Dorms -> Sports Complex,5.57,13:57,Medium,17.86,18.7
+TRIP-0805,Route A: Main Gate -> North Hostels,3.07,21:13,Low,7.61,7.49
+TRIP-0806,Route B: Central Library -> Academic Block Loop,2.21,19:40,Low,5.92,6.22
+TRIP-0807,Route C: Railway Station -> Engineering Quad,8.03,21:29,Low,18.82,18.76
+TRIP-0808,Route D: South Dorms -> Sports Complex,2.21,18:44,Low,9.31,7.37
+TRIP-0809,Route A: Main Gate -> North Hostels,1.61,12:35,Medium,8.88,9.28
+TRIP-0810,Route B: Central Library -> Academic Block Loop,0.79,12:48,Medium,4.02,4.47
+TRIP-0811,Route C: Railway Station -> Engineering Quad,5.72,12:14,Low,16.94,15.38
+TRIP-0812,Route D: South Dorms -> Sports Complex,3.96,20:49,Low,9.54,11.02
+TRIP-0813,Route A: Main Gate -> North Hostels,1.6,08:04,High,8.53,8.0
+TRIP-0814,Route B: Central Library -> Academic Block Loop,1.13,11:31,Low,7.25,6.99
+TRIP-0815,Route C: Railway Station -> Engineering Quad,8.73,11:04,Low,20.14,22.61
+TRIP-0816,Route D: South Dorms -> Sports Complex,5.49,07:59,Medium,20.84,20.06
+TRIP-0817,Route A: Main Gate -> North Hostels,2.53,11:29,Medium,8.68,9.19
+TRIP-0818,Route B: Central Library -> Academic Block Loop,2.11,10:39,Low,4.28,4.81
+TRIP-0819,Route C: Railway Station -> Engineering Quad,5.94,21:14,Medium,18.29,19.12
+TRIP-0820,Route D: South Dorms -> Sports Complex,5.87,08:52,High,26.63,26.04
+TRIP-0821,Route A: Main Gate -> North Hostels,3.59,17:50,High,16.63,17.48
+TRIP-0822,Route B: Central Library -> Academic Block Loop,1.64,06:49,Medium,4.57,4.93
+TRIP-0823,Route C: Railway Station -> Engineering Quad,8.01,12:33,Medium,25.49,26.37
+TRIP-0824,Route D: South Dorms -> Sports Complex,3.69,10:27,Low,9.28,10.59
+TRIP-0825,Route A: Main Gate -> North Hostels,2.25,10:22,Low,7.98,8.18
+TRIP-0826,Route B: Central Library -> Academic Block Loop,1.77,06:36,High,9.96,8.6
+TRIP-0827,Route C: Railway Station -> Engineering Quad,4.1,14:37,Low,9.86,10.75
+TRIP-0828,Route D: South Dorms -> Sports Complex,4.38,10:21,Low,11.41,11.68
+TRIP-0829,Route A: Main Gate -> North Hostels,2.37,21:25,Low,3.36,5.22
+TRIP-0830,Route B: Central Library -> Academic Block Loop,2.14,15:07,Low,7.58,7.11
+TRIP-0831,Route C: Railway Station -> Engineering Quad,8.69,17:45,Medium,28.05,27.68
+TRIP-0832,Route D: South Dorms -> Sports Complex,5.54,19:00,Low,14.33,13.84
+TRIP-0833,Route A: Main Gate -> North Hostels,2.46,07:45,Medium,10.27,10.91
+TRIP-0834,Route B: Central Library -> Academic Block Loop,1.23,14:33,Low,4.77,3.93
+TRIP-0835,Route C: Railway Station -> Engineering Quad,3.41,09:41,High,12.31,16.08
+TRIP-0836,Route D: South Dorms -> Sports Complex,4.82,18:09,Medium,17.97,17.27
+TRIP-0837,Route A: Main Gate -> North Hostels,1.67,17:20,Medium,11.55,11.89
+TRIP-0838,Route B: Central Library -> Academic Block Loop,1.75,09:23,High,11.65,10.26
+TRIP-0839,Route C: Railway Station -> Engineering Quad,7.27,09:19,Low,21.67,21.03
+TRIP-0840,Route D: South Dorms -> Sports Complex,2.62,20:02,Medium,8.2,9.45
+TRIP-0841,Route A: Main Gate -> North Hostels,1.82,21:38,Low,7.51,6.71
+TRIP-0842,Route B: Central Library -> Academic Block Loop,0.85,09:10,Medium,11.68,9.27
+TRIP-0843,Route C: Railway Station -> Engineering Quad,7.92,19:20,Medium,24.25,26.89
+TRIP-0844,Route D: South Dorms -> Sports Complex,2.81,19:45,Low,9.85,9.23
+TRIP-0845,Route A: Main Gate -> North Hostels,2.05,08:49,Medium,11.2,12.58
+TRIP-0846,Route B: Central Library -> Academic Block Loop,0.86,06:58,Medium,2.57,4.35
+TRIP-0847,Route C: Railway Station -> Engineering Quad,9.09,20:16,Low,20.51,20.95
+TRIP-0848,Route D: South Dorms -> Sports Complex,3.85,13:03,High,18.48,18.5
+TRIP-0849,Route A: Main Gate -> North Hostels,3.84,13:55,High,15.23,16.02
+TRIP-0850,Route B: Central Library -> Academic Block Loop,0.81,12:46,High,5.84,7.94
+TRIP-0851,Route C: Railway Station -> Engineering Quad,2.78,12:00,Low,8.34,8.98
+TRIP-0852,Route D: South Dorms -> Sports Complex,2.37,20:36,Low,9.75,9.2
+TRIP-0853,Route A: Main Gate -> North Hostels,1.35,07:31,Low,6.68,4.85
+TRIP-0854,Route B: Central Library -> Academic Block Loop,1.45,13:24,Medium,,7.23
+TRIP-0855,Route C: Railway Station -> Engineering Quad,5.86,17:34,High,27.9,27.14
+TRIP-0856,Route D: South Dorms -> Sports Complex,2.24,15:05,Low,6.18,6.67
+TRIP-0857,Route A: Main Gate -> North Hostels,2.54,18:52,Low,7.43,9.18
+TRIP-0858,Route B: Central Library -> Academic Block Loop,2.4,18:43,Medium,8.62,10.88
+TRIP-0859,Route C: Railway Station -> Engineering Quad,6.38,16:05,Low,15.68,17.12
+TRIP-0860,Route D: South Dorms -> Sports Complex,1.96,18:00,High,12.66,13.42
+TRIP-0861,Route A: Main Gate -> North Hostels,3.68,07:33,Medium,14.27,14.2
+TRIP-0862,Route B: Central Library -> Academic Block Loop,0.77,06:53,Medium,4.96,4.56
+TRIP-0863,Route C: Railway Station -> Engineering Quad,3.56,15:19,Low,8.21,8.55
+TRIP-0864,Route D: South Dorms -> Sports Complex,4.91,20:06,Medium,16.32,15.64
+TRIP-0865,Route A: Main Gate -> North Hostels,1.31,16:40,Low,7.29,5.13
+TRIP-0866,Route B: Central Library -> Academic Block Loop,2.43,11:22,Low,8.62,9.45
+TRIP-0867,Route C: Railway Station -> Engineering Quad,6.32,16:43,High,26.0,27.99
+TRIP-0868,Route D: South Dorms -> Sports Complex,4.17,08:46,Medium,17.08,18.44
+TRIP-0869,Route A: Main Gate -> North Hostels,2.51,09:04,High,14.52,16.49
+TRIP-0870,Route B: Central Library -> Academic Block Loop,1.08,20:24,Low,3.65,3.56
+TRIP-0871,Route C: Railway Station -> Engineering Quad,4.22,13:49,High,19.25,18.57
+TRIP-0872,Route D: South Dorms -> Sports Complex,2.36,17:40,High,12.78,13.56
+TRIP-0873,Route A: Main Gate -> North Hostels,2.53,16:38,Medium,9.84,12.2
+TRIP-0874,Route B: Central Library -> Academic Block Loop,2.09,08:56,High,11.78,14.42
+TRIP-0875,Route C: Railway Station -> Engineering Quad,2.86,10:44,Low,7.07,7.26
+TRIP-0876,Route D: South Dorms -> Sports Complex,3.28,20:04,Low,11.76,10.59
+TRIP-0877,Route A: Main Gate -> North Hostels,3.14,08:50,Medium,13.82,14.4
+TRIP-0878,Route B: Central Library -> Academic Block Loop,0.74,14:25,Low,2.8,2.35
+TRIP-0879,Route C: Railway Station -> Engineering Quad,4.24,15:41,Low,9.28,10.95
+TRIP-0880,Route D: South Dorms -> Sports Complex,2.7,06:58,Low,8.31,8.71
+TRIP-0881,Route A: Main Gate -> North Hostels,2.13,15:26,Low,8.49,8.45
+TRIP-0882,Route B: Central Library -> Academic Block Loop,1.26,11:11,Low,3.79,4.33
+TRIP-0883,Route C: Railway Station -> Engineering Quad,8.78,08:12,Medium,28.22,28.51
+TRIP-0884,Route D: South Dorms -> Sports Complex,4.03,06:49,Medium,10.16,12.81
+TRIP-0885,Route A: Main Gate -> North Hostels,2.92,14:41,Low,8.39,6.99
+TRIP-0886,Route B: Central Library -> Academic Block Loop,0.82,19:17,Low,2.97,2.9
+TRIP-0887,Route C: Railway Station -> Engineering Quad,9.16,09:13,Medium,29.66,30.12
+TRIP-0888,Route D: South Dorms -> Sports Complex,5.85,10:09,Medium,18.44,18.93
+TRIP-0889,Route A: Main Gate -> North Hostels,1.23,14:11,Low,3.36,6.3
+TRIP-0890,Route B: Central Library -> Academic Block Loop,2.21,21:32,Low,6.34,6.13
+TRIP-0891,Route C: Railway Station -> Engineering Quad,4.33,19:54,Low,11.95,11.12
+TRIP-0892,Route D: South Dorms -> Sports Complex,2.92,14:46,Low,9.06,7.05
+TRIP-0893,Route A: Main Gate -> North Hostels,1.41,10:42,Low,3.32,3.38
+TRIP-0894,Route B: Central Library -> Academic Block Loop,2.26,18:27,Low,7.03,6.55
+TRIP-0895,Route C: Railway Station -> Engineering Quad,5.78,08:32,Medium,19.86,22.59
+TRIP-0896,Route D: South Dorms -> Sports Complex,4.87,11:29,Low,12.99,13.05
+TRIP-0897,Route A: Main Gate -> North Hostels,1.45,08:16,Medium,9.03,7.83
+TRIP-0898,Route B: Central Library -> Academic Block Loop,2.1,10:18,Low,6.95,7.24
+TRIP-0899,Route C: Railway Station -> Engineering Quad,8.37,17:52,High,32.16,33.5
+TRIP-0900,Route D: South Dorms -> Sports Complex,2.69,15:02,Low,5.78,6.95
+TRIP-0901,Route A: Main Gate -> North Hostels,2.43,14:18,Low,8.18,8.32
+TRIP-0902,Route B: Central Library -> Academic Block Loop,1.39,07:15,Low,5.93,3.9
+TRIP-0903,Route C: Railway Station -> Engineering Quad,5.09,10:46,High,20.05,19.53
+TRIP-0904,Route D: South Dorms -> Sports Complex,2.9,07:36,Medium,10.52,12.24
+TRIP-0905,Route A: Main Gate -> North Hostels,1.8,18:04,High,8.86,10.69
+TRIP-0906,Route B: Central Library -> Academic Block Loop,1.99,21:51,Low,5.66,5.44
+TRIP-0907,Route C: Railway Station -> Engineering Quad,3.79,16:44,High,19.36,18.27
+TRIP-0908,Route D: South Dorms -> Sports Complex,4.11,11:12,Medium,13.03,16.19
+TRIP-0909,Route A: Main Gate -> North Hostels,3.43,09:27,High,18.68,18.54
+TRIP-0910,Route B: Central Library -> Academic Block Loop,0.87,17:00,High,7.76,9.2
+TRIP-0911,Route C: Railway Station -> Engineering Quad,7.19,18:25,Medium,23.67,24.15
+TRIP-0912,Route D: South Dorms -> Sports Complex,5.39,10:09,Low,12.69,14.39
+TRIP-0913,Route A: Main Gate -> North Hostels,1.69,21:40,Low,4.36,4.09
+TRIP-0914,Route B: Central Library -> Academic Block Loop,1.44,16:09,Medium,3.84,6.07
+TRIP-0915,Route C: Railway Station -> Engineering Quad,7.37,11:29,Medium,20.89,23.41
+TRIP-0916,Route D: South Dorms -> Sports Complex,5.77,19:54,Low,13.2,13.45
+TRIP-0917,Route A: Main Gate -> North Hostels,2.0,10:57,Low,7.8,6.11
+TRIP-0918,Route B: Central Library -> Academic Block Loop,1.65,09:50,Medium,7.27,7.3
+TRIP-0919,Route C: Railway Station -> Engineering Quad,3.45,16:09,Medium,10.93,12.47
+TRIP-0920,Route D: South Dorms -> Sports Complex,2.82,10:44,Low,6.35,7.3
+TRIP-0921,Route A: Main Gate -> North Hostels,2.88,07:19,Low,9.45,9.21
+TRIP-0922,Route B: Central Library -> Academic Block Loop,1.13,09:37,Low,6.13,5.01
+TRIP-0923,Route C: Railway Station -> Engineering Quad,4.54,21:55,Medium,,15.81
+TRIP-0924,Route D: South Dorms -> Sports Complex,3.65,19:35,Medium,12.16,9.63
+TRIP-0925,Route A: Main Gate -> North Hostels,3.49,20:10,Low,10.75,9.45
+TRIP-0926,Route B: Central Library -> Academic Block Loop,1.96,20:42,Low,8.15,7.32
+TRIP-0927,Route C: Railway Station -> Engineering Quad,5.44,19:04,Low,14.85,13.9
+TRIP-0928,Route D: South Dorms -> Sports Complex,1.86,10:52,Low,5.93,2.75
+TRIP-0929,Route A: Main Gate -> North Hostels,1.48,07:42,High,6.94,8.37
+TRIP-0930,Route B: Central Library -> Academic Block Loop,2.09,17:56,High,10.28,12.04
+TRIP-0931,Route C: Railway Station -> Engineering Quad,5.73,19:47,Medium,16.73,15.38
+TRIP-0932,Route D: South Dorms -> Sports Complex,4.74,19:45,Low,13.32,13.12
+TRIP-0933,Route A: Main Gate -> North Hostels,2.42,14:38,Low,7.85,9.19
+TRIP-0934,Route B: Central Library -> Academic Block Loop,1.35,12:17,Low,6.71,7.77
+TRIP-0935,Route C: Railway Station -> Engineering Quad,5.57,09:06,Medium,20.84,21.86
+TRIP-0936,Route D: South Dorms -> Sports Complex,4.26,20:28,Medium,15.42,16.77
+TRIP-0937,Route A: Main Gate -> North Hostels,2.73,14:21,Low,8.84,8.46
+TRIP-0938,Route B: Central Library -> Academic Block Loop,1.21,16:00,Low,3.25,3.88
+TRIP-0939,Route C: Railway Station -> Engineering Quad,4.45,15:53,Low,11.06,11.35
+TRIP-0940,Route D: South Dorms -> Sports Complex,3.14,10:10,Medium,14.77,13.39
+TRIP-0941,Route A: Main Gate -> North Hostels,1.25,08:32,High,10.58,12.05
+TRIP-0942,Route B: Central Library -> Academic Block Loop,2.13,10:56,Low,5.43,5.1
+TRIP-0943,Route C: Railway Station -> Engineering Quad,6.82,19:58,Low,15.34,17.09
+TRIP-0944,Route D: South Dorms -> Sports Complex,3.23,13:59,High,13.82,13.95
+TRIP-0945,Route A: Main Gate -> North Hostels,3.81,07:31,High,15.94,16.33
+TRIP-0946,Route B: Central Library -> Academic Block Loop,2.38,14:22,Low,7.51,7.31
+TRIP-0947,Route C: Railway Station -> Engineering Quad,6.51,09:49,Low,16.62,17.59
+TRIP-0948,Route D: South Dorms -> Sports Complex,1.73,13:25,Low,6.33,6.04
+TRIP-0949,Route A: Main Gate -> North Hostels,1.34,10:46,Low,3.67,7.02
+TRIP-0950,Route B: Central Library -> Academic Block Loop,2.37,15:34,Medium,11.18,9.03
+TRIP-0951,Route C: Railway Station -> Engineering Quad,7.7,08:37,High,32.76,33.28
+TRIP-0952,Route D: South Dorms -> Sports Complex,2.86,21:19,Low,9.07,7.62
+TRIP-0953,Route A: Main Gate -> North Hostels,2.42,19:34,,7.86,7.95
+TRIP-0954,Route B: Central Library -> Academic Block Loop,0.82,13:40,High,4.57,5.79
+TRIP-0955,Route C: Railway Station -> Engineering Quad,6.67,13:16,Medium,22.79,22.37
+TRIP-0956,Route D: South Dorms -> Sports Complex,3.83,21:05,Low,10.05,11.52
+TRIP-0957,Route A: Main Gate -> North Hostels,2.48,14:53,Low,4.77,6.75
+TRIP-0958,Route B: Central Library -> Academic Block Loop,1.92,17:25,Medium,10.25,9.97
+TRIP-0959,Route C: Railway Station -> Engineering Quad,5.47,18:42,High,23.41,22.12
+TRIP-0960,Route D: South Dorms -> Sports Complex,4.56,17:58,Medium,16.51,17.55
+TRIP-0961,Route A: Main Gate -> North Hostels,1.15,08:24,Medium,7.49,7.35
+TRIP-0962,Route B: Central Library -> Academic Block Loop,1.23,13:09,Medium,5.83,7.25
+TRIP-0963,Route C: Railway Station -> Engineering Quad,7.08,08:37,High,32.87,29.41
+TRIP-0964,Route D: South Dorms -> Sports Complex,5.07,08:27,Low,16.71,17.21
+TRIP-0965,Route A: Main Gate -> North Hostels,2.83,06:52,Low,7.81,8.02
+TRIP-0966,Route B: Central Library -> Academic Block Loop,1.22,18:31,Medium,4.52,4.61
+TRIP-0967,Route C: Railway Station -> Engineering Quad,4.31,13:22,Medium,16.44,14.92
+TRIP-0968,Route D: South Dorms -> Sports Complex,4.61,15:34,Low,13.22,11.78
+TRIP-0969,Route A: Main Gate -> North Hostels,2.97,12:30,Medium,11.96,13.69
+TRIP-0970,Route B: Central Library -> Academic Block Loop,1.81,11:46,Medium,8.72,6.45
+TRIP-0971,Route C: Railway Station -> Engineering Quad,7.34,12:36,High,31.84,30.7
+TRIP-0972,Route D: South Dorms -> Sports Complex,3.56,10:40,Low,8.49,
+TRIP-0973,Route A: Main Gate -> North Hostels,2.5,20:17,Medium,10.56,8.87
+TRIP-0974,Route B: Central Library -> Academic Block Loop,1.06,20:07,Medium,3.09,4.33
+TRIP-0975,Route C: Railway Station -> Engineering Quad,3.54,17:05,Medium,10.81,14.57
+TRIP-0976,Route D: South Dorms -> Sports Complex,3.33,21:05,Low,9.52,10.35
+TRIP-0977,Route A: Main Gate -> North Hostels,3.62,12:49,Medium,14.36,14.94
+TRIP-0978,Route B: Central Library -> Academic Block Loop,2.31,13:51,Medium,7.65,11.08
+TRIP-0979,Route C: Railway Station -> Engineering Quad,7.48,10:57,Low,,18.55
+TRIP-0980,Route D: South Dorms -> Sports Complex,2.76,16:17,Low,5.66,9.83
+TRIP-0981,Route A: Main Gate -> North Hostels,2.84,09:25,High,13.71,13.77
+TRIP-0982,Route B: Central Library -> Academic Block Loop,2.49,14:44,Medium,8.12,8.42
+TRIP-0983,Route C: Railway Station -> Engineering Quad,7.08,17:13,Medium,23.32,23.03
+TRIP-0984,Route D: South Dorms -> Sports Complex,5.8,10:02,Low,14.22,13.11
+TRIP-0985,Route A: Main Gate -> North Hostels,2.1,17:35,Medium,11.31,10.39
+TRIP-0986,Route B: Central Library -> Academic Block Loop,1.17,10:09,Low,5.76,6.1
+TRIP-0987,Route C: Railway Station -> Engineering Quad,2.94,16:08,Low,8.49,8.78
+TRIP-0988,Route D: South Dorms -> Sports Complex,5.35,15:31,Low,15.36,13.16
+TRIP-0989,Route A: Main Gate -> North Hostels,3.33,20:40,Medium,9.07,11.32
+TRIP-0990,Route B: Central Library -> Academic Block Loop,1.02,11:16,Low,4.02,3.1
+TRIP-0991,Route C: Railway Station -> Engineering Quad,8.83,08:06,,21.43,23.21
+TRIP-0992,Route D: South Dorms -> Sports Complex,3.2,15:44,Low,8.39,9.98
+TRIP-0993,Route A: Main Gate -> North Hostels,2.08,16:02,Low,6.09,7.01
+TRIP-0994,Route B: Central Library -> Academic Block Loop,1.03,07:11,Low,3.5,4.13
+TRIP-0995,Route C: Railway Station -> Engineering Quad,7.38,12:45,Medium,24.99,23.61
+TRIP-0996,Route D: South Dorms -> Sports Complex,4.74,09:33,Medium,16.75,17.91
+TRIP-0997,Route A: Main Gate -> North Hostels,2.75,13:17,High,10.97,13.14
+TRIP-0998,Route B: Central Library -> Academic Block Loop,1.86,16:21,Low,8.63,8.6
+TRIP-0999,Route C: Railway Station -> Engineering Quad,6.65,06:54,Low,15.53,17.13
+TRIP-1000,Route D: South Dorms -> Sports Complex,3.9,16:02,Low,11.06,9.44
+TRIP-1001,Route A: Main Gate -> North Hostels,3.53,18:20,Low,10.35,11.78
+TRIP-1002,Route B: Central Library -> Academic Block Loop,1.45,10:19,High,9.17,9.68
+TRIP-1003,Route C: Railway Station -> Engineering Quad,3.78,21:42,Low,10.99,9.72
+TRIP-1004,Route D: South Dorms -> Sports Complex,2.22,19:10,Low,5.76,6.76
+TRIP-1005,Route A: Main Gate -> North Hostels,2.76,07:22,Low,8.48,7.83
+TRIP-1006,Route B: Central Library -> Academic Block Loop,0.99,20:47,Low,6.32,6.29
+TRIP-1007,Route C: Railway Station -> Engineering Quad,4.56,14:18,Low,13.79,12.29
+TRIP-1008,Route D: South Dorms -> Sports Complex,3.82,21:45,Low,12.94,11.56
+TRIP-1009,Route A: Main Gate -> North Hostels,2.07,17:37,Medium,10.01,11.51
+TRIP-1010,Route B: Central Library -> Academic Block Loop,0.83,20:58,Low,3.58,3.13
+TRIP-1011,Route C: Railway Station -> Engineering Quad,8.94,11:00,Low,21.5,20.73
+TRIP-1012,Route D: South Dorms -> Sports Complex,3.23,21:55,Low,7.99,8.89
+TRIP-1013,Route A: Main Gate -> North Hostels,3.37,19:51,Medium,12.13,12.14
+TRIP-1014,Route B: Central Library -> Academic Block Loop,1.83,19:18,Medium,7.66,7.9
+TRIP-1015,Route C: Railway Station -> Engineering Quad,6.11,19:28,Low,13.25,14.88
+TRIP-1016,Route D: South Dorms -> Sports Complex,5.61,08:19,High,,24.84
+TRIP-1017,Route A: Main Gate -> North Hostels,1.27,14:21,Low,4.45,4.47
+TRIP-1018,Route B: Central Library -> Academic Block Loop,1.72,15:04,Low,3.32,3.06
+TRIP-1019,Route C: Railway Station -> Engineering Quad,8.81,21:38,Low,22.47,21.03
+TRIP-1020,Route D: South Dorms -> Sports Complex,3.7,20:03,Medium,12.73,12.31
+TRIP-1021,Route A: Main Gate -> North Hostels,1.74,19:34,Medium,7.99,6.61
+TRIP-1022,Route B: Central Library -> Academic Block Loop,2.39,11:38,Medium,8.23,6.06
+TRIP-1023,Route C: Railway Station -> Engineering Quad,8.66,10:47,Low,18.57,21.91
+TRIP-1024,Route D: South Dorms -> Sports Complex,2.62,07:28,Low,9.14,6.95
+TRIP-1025,Route A: Main Gate -> North Hostels,2.36,11:11,High,9.1,10.32
+TRIP-1026,Route B: Central Library -> Academic Block Loop,1.48,16:33,High,6.46,9.92
+TRIP-1027,Route C: Railway Station -> Engineering Quad,3.55,11:39,Low,9.76,11.09
+TRIP-1028,Route D: South Dorms -> Sports Complex,1.91,25:99,Low,7.51,8.37
+TRIP-1029,Route A: Main Gate -> North Hostels,2.49,14:41,Low,7.4,7.56
+TRIP-1030,Route B: Central Library -> Academic Block Loop,1.94,07:20,Medium,7.24,7.31
+TRIP-1031,Route C: Railway Station -> Engineering Quad,8.66,15:22,Low,20.23,22.63
+TRIP-1032,Route D: South Dorms -> Sports Complex,4.53,20:09,High,17.73,19.73
+TRIP-1033,Route A: Main Gate -> North Hostels,3.17,14:55,Low,9.91,8.71
+TRIP-1034,Route B: Central Library -> Academic Block Loop,1.55,09:08,Low,7.52,8.65
+TRIP-1035,Route C: Railway Station -> Engineering Quad,3.21,07:38,Medium,9.48,13.11
+TRIP-1036,Route D: South Dorms -> Sports Complex,5.51,12:46,Medium,19.04,20.07
+TRIP-1037,Route A: Main Gate -> North Hostels,1.92,08:24,Low,7.01,6.94
+TRIP-1038,Route B: Central Library -> Academic Block Loop,0.92,13:57,Medium,5.22,5.51
+TRIP-1039,Route C: Railway Station -> Engineering Quad,4.01,10:09,Medium,13.18,14.39
+TRIP-1040,Route D: South Dorms -> Sports Complex,3.4,17:33,High,18.58,20.09
+TRIP-1041,Route A: Main Gate -> North Hostels,2.31,15:15,Low,5.85,7.3
+TRIP-1042,Route B: Central Library -> Academic Block Loop,1.2,13:39,Medium,6.57,6.28
+TRIP-1043,Route C: Railway Station -> Engineering Quad,3.41,19:14,,11.89,12.05
+TRIP-1044,Route D: South Dorms -> Sports Complex,5.06,18:09,High,19.89,21.03
+TRIP-1045,Route A: Main Gate -> North Hostels,2.28,09:30,High,11.35,12.64
+TRIP-1046,Route B: Central Library -> Academic Block Loop,2.32,12:13,Low,9.08,6.61
+TRIP-1047,Route C: Railway Station -> Engineering Quad,8.81,14:06,Medium,27.24,26.57
+TRIP-1048,Route D: South Dorms -> Sports Complex,5.3,12:25,High,23.8,23.93
+TRIP-1049,Route A: Main Gate -> North Hostels,1.6,17:50,High,9.8,8.37
+TRIP-1050,Route B: Central Library -> Academic Block Loop,1.41,09:36,Low,6.55,5.61
+TRIP-1051,Route C: Railway Station -> Engineering Quad,4.77,15:56,Low,14.11,15.93
+TRIP-1052,Route D: South Dorms -> Sports Complex,4.5,18:19,Medium,14.53,17.9
+TRIP-1053,Route A: Main Gate -> North Hostels,1.83,07:56,Medium,5.81,6.78
+TRIP-1054,Route B: Central Library -> Academic Block Loop,1.33,06:41,Medium,9.68,6.19
+TRIP-1055,Route C: Railway Station -> Engineering Quad,4.6,13:06,Medium,17.71,17.63
+TRIP-1056,Route D: South Dorms -> Sports Complex,3.15,12:38,Low,10.63,11.22
+TRIP-1057,Route A: Main Gate -> North Hostels,2.01,07:50,Medium,6.87,7.44
+TRIP-1058,Route B: Central Library -> Academic Block Loop,0.99,08:46,High,7.59,7.35
+TRIP-1059,Route C: Railway Station -> Engineering Quad,5.01,18:22,Medium,15.76,16.63
+TRIP-1060,Route D: South Dorms -> Sports Complex,3.21,18:31,Medium,10.99,11.3
+TRIP-1061,Route A: Main Gate -> North Hostels,1.87,11:46,Low,7.68,7.76
+TRIP-1062,Route B: Central Library -> Academic Block Loop,1.27,07:35,Medium,7.74,7.17
+TRIP-1063,Route C: Railway Station -> Engineering Quad,4.08,20:39,Low,10.37,11.26
+TRIP-1064,Route D: South Dorms -> Sports Complex,5.48,20:53,Low,13.17,16.13
+TRIP-1065,Route A: Main Gate -> North Hostels,3.35,16:29,Low,11.18,10.4
+TRIP-1066,Route B: Central Library -> Academic Block Loop,2.31,21:15,Low,7.81,8.19
+TRIP-1067,Route C: Railway Station -> Engineering Quad,4.82,08:45,High,21.84,23.71
+TRIP-1068,Route D: South Dorms -> Sports Complex,4.42,17:04,Medium,19.38,20.43
+TRIP-1069,Route A: Main Gate -> North Hostels,3.37,09:54,Low,10.64,9.18
+TRIP-1070,Route B: Central Library -> Academic Block Loop,1.16,18:35,Low,6.12,6.01
+TRIP-1071,Route C: Railway Station -> Engineering Quad,8.9,15:13,Low,19.63,19.35
+TRIP-1072,Route D: South Dorms -> Sports Complex,3.52,12:53,Medium,15.08,13.85
+TRIP-1073,Route A: Main Gate -> North Hostels,1.23,17:04,Medium,8.7,8.32
+TRIP-1074,Route B: Central Library -> Academic Block Loop,1.72,17:48,Medium,10.03,8.91
+TRIP-1075,Route C: Railway Station -> Engineering Quad,8.15,10:39,Low,18.72,19.22
+TRIP-1076,Route D: South Dorms -> Sports Complex,4.74,13:46,Low,12.24,13.7
+TRIP-1077,Route A: Main Gate -> North Hostels,2.08,12:28,Medium,8.0,8.8
+TRIP-1078,Route B: Central Library -> Academic Block Loop,2.4,16:31,High,11.3,13.34
+TRIP-1079,Route C: Railway Station -> Engineering Quad,6.71,12:02,Low,17.46,17.47
+TRIP-1080,Route D: South Dorms -> Sports Complex,4.76,07:55,Medium,14.94,16.74
+TRIP-1081,Route A: Main Gate -> North Hostels,1.54,08:30,High,11.4,12.43
+TRIP-1082,Route B: Central Library -> Academic Block Loop,2.45,10:42,Medium,6.76,7.58
+TRIP-1083,Route C: Railway Station -> Engineering Quad,5.68,06:35,Medium,20.53,18.44
+TRIP-1084,Route D: South Dorms -> Sports Complex,5.6,14:43,Low,14.84,15.2
+TRIP-1085,Route A: Main Gate -> North Hostels,1.29,17:07,Low,8.8,9.27
+TRIP-1086,Route B: Central Library -> Academic Block Loop,0.83,19:03,Medium,4.68,4.75
+TRIP-1087,Route C: Railway Station -> Engineering Quad,3.37,16:18,Low,8.67,11.43
+TRIP-1088,Route D: South Dorms -> Sports Complex,4.56,08:29,Medium,17.69,18.93
+TRIP-1089,Route A: Main Gate -> North Hostels,3.84,06:54,Low,11.41,8.91
+TRIP-1090,Route B: Central Library -> Academic Block Loop,2.31,20:39,Medium,7.69,8.47
+TRIP-1091,Route C: Railway Station -> Engineering Quad,7.68,11:21,Low,21.64,19.88
+TRIP-1092,Route D: South Dorms -> Sports Complex,5.3,10:23,Medium,17.94,18.07
+TRIP-1093,Route A: Main Gate -> North Hostels,1.81,09:09,High,12.62,12.15
+TRIP-1094,Route B: Central Library -> Academic Block Loop,2.3,12:07,Low,7.11,8.55
+TRIP-1095,Route C: Railway Station -> Engineering Quad,6.65,08:04,High,27.47,29.45
+TRIP-1096,Route D: South Dorms -> Sports Complex,2.17,21:42,Low,5.18,5.84
+TRIP-1097,Route A: Main Gate -> North Hostels,2.67,13:23,Medium,10.29,10.24
+TRIP-1098,Route B: Central Library -> Academic Block Loop,1.24,20:41,Low,5.92,3.2
+TRIP-1099,Route C: Railway Station -> Engineering Quad,8.31,14:32,Low,18.73,20.37
+TRIP-1100,Route D: South Dorms -> Sports Complex,2.96,15:54,Low,8.66,7.72
+TRIP-1101,Route A: Main Gate -> North Hostels,2.61,15:47,Low,6.98,8.6
+TRIP-1102,Route B: Central Library -> Academic Block Loop,2.47,16:08,Low,9.17,8.3
+TRIP-1103,Route C: Railway Station -> Engineering Quad,3.16,11:56,Low,8.9,9.24
+TRIP-1104,Route D: South Dorms -> Sports Complex,2.98,11:40,Low,8.62,9.82
+TRIP-1105,Route A: Main Gate -> North Hostels,2.11,08:04,Medium,7.83,10.05
+TRIP-1106,Route B: Central Library -> Academic Block Loop,1.92,08:55,Medium,10.23,10.9
+TRIP-1107,Route C: Railway Station -> Engineering Quad,2.85,14:16,Medium,11.34,10.94
+TRIP-1108,Route D: South Dorms -> Sports Complex,5.81,16:59,High,25.53,27.58
+TRIP-1109,Route A: Main Gate -> North Hostels,2.17,11:32,Low,8.96,6.58
+TRIP-1110,Route B: Central Library -> Academic Block Loop,1.75,11:04,Low,7.24,6.97
+TRIP-1111,Route C: Railway Station -> Engineering Quad,7.98,15:34,Low,18.24,19.49
+TRIP-1112,Route D: South Dorms -> Sports Complex,5.53,12:55,Medium,21.22,20.87
+TRIP-1113,Route A: Main Gate -> North Hostels,1.3,20:24,High,7.52,6.9
+TRIP-1114,Route B: Central Library -> Academic Block Loop,0.84,15:46,Low,4.56,5.05
+TRIP-1115,Route C: Railway Station -> Engineering Quad,7.44,10:57,Low,18.38,20.33
+TRIP-1116,Route D: South Dorms -> Sports Complex,3.55,19:27,Medium,10.92,10.78
+TRIP-1117,Route A: Main Gate -> North Hostels,1.97,16:27,Low,7.2,7.0
+TRIP-1118,Route B: Central Library -> Academic Block Loop,2.05,18:25,Low,8.04,8.49
+TRIP-1119,Route C: Railway Station -> Engineering Quad,3.92,13:01,Low,10.82,11.27
+TRIP-1120,Route D: South Dorms -> Sports Complex,2.81,17:32,Low,9.57,11.06
+TRIP-1121,Route A: Main Gate -> North Hostels,3.29,18:39,Low,7.49,8.38
+TRIP-1122,Route B: Central Library -> Academic Block Loop,1.51,09:20,High,11.87,11.79
+TRIP-1123,Route C: Railway Station -> Engineering Quad,5.12,10:59,Low,12.03,13.94
+TRIP-1124,Route D: South Dorms -> Sports Complex,2.27,18:04,Medium,10.57,10.42
+TRIP-1125,Route A: Main Gate -> North Hostels,1.47,09:45,Low,5.96,6.33
+TRIP-1126,Route B: Central Library -> Academic Block Loop,1.91,19:24,Medium,4.31,6.94
+TRIP-1127,Route C: Railway Station -> Engineering Quad,6.37,14:30,Medium,20.8,19.55
+TRIP-1128,Route D: South Dorms -> Sports Complex,4.86,12:14,Medium,17.73,17.68
+TRIP-1129,Route A: Main Gate -> North Hostels,2.71,13:01,Low,10.31,9.43
+TRIP-1130,Route B: Central Library -> Academic Block Loop,2.11,20:20,Medium,8.47,7.65
+TRIP-1131,Route C: Railway Station -> Engineering Quad,8.4,18:07,Medium,30.66,29.75
+TRIP-1132,Route D: South Dorms -> Sports Complex,5.27,07:20,Medium,18.66,16.7
+TRIP-1133,Route A: Main Gate -> North Hostels,3.18,14:49,Low,8.35,7.22
+TRIP-1134,Route B: Central Library -> Academic Block Loop,0.84,16:03,Low,4.59,3.86
+TRIP-1135,Route C: Railway Station -> Engineering Quad,7.28,08:07,Medium,24.55,26.33
+TRIP-1136,Route D: South Dorms -> Sports Complex,2.12,08:03,High,10.42,12.01
+TRIP-1137,Route A: Main Gate -> North Hostels,3.54,18:54,High,15.19,16.41
+TRIP-1138,Route B: Central Library -> Academic Block Loop,2.35,11:08,Low,6.63,6.21
+TRIP-1139,Route C: Railway Station -> Engineering Quad,8.67,08:55,High,37.36,37.82
+TRIP-1140,Route D: South Dorms -> Sports Complex,5.52,12:24,Medium,18.22,18.99
+TRIP-1141,Route A: Main Gate -> North Hostels,3.56,17:02,Low,11.77,11.96
+TRIP-1142,Route B: Central Library -> Academic Block Loop,2.46,21:30,,6.94,7.11
+TRIP-1143,Route C: Railway Station -> Engineering Quad,7.72,07:50,Medium,24.66,25.83
+TRIP-1144,Route D: South Dorms -> Sports Complex,2.71,07:19,Low,8.39,3.65
+TRIP-1145,Route A: Main Gate -> North Hostels,2.24,12:03,Low,9.27,5.27
+TRIP-1146,Route B: Central Library -> Academic Block Loop,2.17,20:05,Low,7.04,8.04
+TRIP-1147,Route C: Railway Station -> Engineering Quad,2.98,17:28,High,13.61,16.31
+TRIP-1148,Route D: South Dorms -> Sports Complex,5.86,21:55,Low,12.71,13.47
+TRIP-1149,Route A: Main Gate -> North Hostels,3.13,20:08,Medium,8.73,11.02
+TRIP-1150,Route B: Central Library -> Academic Block Loop,2.2,17:12,Medium,8.81,10.39
+TRIP-1151,Route C: Railway Station -> Engineering Quad,6.88,14:33,Medium,21.71,21.78
+TRIP-1152,Route D: South Dorms -> Sports Complex,3.44,15:53,Low,10.11,9.9
+TRIP-1153,Route A: Main Gate -> North Hostels,3.1,17:26,High,17.09,17.22
+TRIP-1154,Route B: Central Library -> Academic Block Loop,1.65,07:39,Medium,4.87,6.83
+TRIP-1155,Route C: Railway Station -> Engineering Quad,7.99,11:09,Low,22.17,20.69
+TRIP-1156,Route D: South Dorms -> Sports Complex,4.61,19:36,Medium,16.89,17.43
+TRIP-1157,Route A: Main Gate -> North Hostels,1.55,17:09,Medium,9.08,9.34
+TRIP-1158,Route B: Central Library -> Academic Block Loop,1.93,11:07,Low,6.27,5.8
+TRIP-1159,Route C: Railway Station -> Engineering Quad,3.37,20:03,Medium,12.88,12.84
+TRIP-1160,Route D: South Dorms -> Sports Complex,3.29,11:40,Low,10.56,10.4
+TRIP-1161,Route A: Main Gate -> North Hostels,3.54,21:05,Low,5.29,8.56
+TRIP-1162,Route B: Central Library -> Academic Block Loop,2.51,19:53,Low,7.19,6.9
+TRIP-1163,Route C: Railway Station -> Engineering Quad,8.17,15:31,Low,21.16,21.03
+TRIP-1164,Route D: South Dorms -> Sports Complex,4.22,06:59,Medium,11.45,12.67
+TRIP-1165,Route A: Main Gate -> North Hostels,2.02,19:18,Medium,7.67,9.28
+TRIP-1166,Route B: Central Library -> Academic Block Loop,1.87,10:59,Low,6.4,6.86
+TRIP-1167,Route C: Railway Station -> Engineering Quad,5.9,15:55,Low,16.8,16.86
+TRIP-1168,Route D: South Dorms -> Sports Complex,3.01,09:58,Medium,8.58,8.81
+TRIP-1169,Route A: Main Gate -> North Hostels,1.23,10:32,Low,4.86,5.87
+TRIP-1170,Route B: Central Library -> Academic Block Loop,2.46,15:37,Low,6.11,6.81
+TRIP-1171,Route C: Railway Station -> Engineering Quad,7.88,08:18,High,32.68,32.4
+TRIP-1172,Route D: South Dorms -> Sports Complex,5.19,06:55,Low,12.63,15.11
+TRIP-1173,Route A: Main Gate -> North Hostels,3.52,16:21,Low,11.51,11.24
+TRIP-1174,Route B: Central Library -> Academic Block Loop,2.45,08:07,High,12.68,13.09
+TRIP-1175,Route C: Railway Station -> Engineering Quad,6.67,18:52,Medium,18.82,19.4
+TRIP-1176,Route D: South Dorms -> Sports Complex,3.65,06:39,Medium,12.85,11.76
+TRIP-1177,Route A: Main Gate -> North Hostels,1.58,19:12,Medium,6.47,6.15
+TRIP-1178,Route B: Central Library -> Academic Block Loop,2.51,10:20,Low,10.49,8.99
+TRIP-1179,Route C: Railway Station -> Engineering Quad,4.32,12:36,Medium,13.6,15.9
+TRIP-1180,Route D: South Dorms -> Sports Complex,4.19,08:47,High,18.68,19.85
+TRIP-1181,Route A: Main Gate -> North Hostels,1.28,16:51,Medium,8.78,9.2
+TRIP-1182,Route B: Central Library -> Academic Block Loop,1.55,13:36,Low,6.89,6.55
+TRIP-1183,Route C: Railway Station -> Engineering Quad,6.35,07:40,Medium,18.46,20.25
+TRIP-1184,Route D: South Dorms -> Sports Complex,2.36,14:13,Low,8.71,10.75
+TRIP-1185,Route A: Main Gate -> North Hostels,3.22,10:56,Low,9.12,9.38
+TRIP-1186,Route B: Central Library -> Academic Block Loop,0.82,14:48,High,6.57,5.12
+TRIP-1187,Route C: Railway Station -> Engineering Quad,7.74,11:51,Low,19.01,19.73
+TRIP-1188,Route D: South Dorms -> Sports Complex,3.96,19:19,Low,11.83,12.82
+TRIP-1189,Route A: Main Gate -> North Hostels,1.24,12:22,High,9.22,9.2
+TRIP-1190,Route B: Central Library -> Academic Block Loop,1.96,21:26,Medium,8.44,7.96
+TRIP-1191,Route C: Railway Station -> Engineering Quad,6.58,19:09,Medium,22.07,20.5
+TRIP-1192,Route D: South Dorms -> Sports Complex,2.21,15:19,Low,5.77,4.71
+TRIP-1193,Route A: Main Gate -> North Hostels,2.9,19:44,Medium,12.75,11.51
+TRIP-1194,Route B: Central Library -> Academic Block Loop,1.99,06:39,Medium,5.75,8.18
+TRIP-1195,Route C: Railway Station -> Engineering Quad,3.77,19:16,Medium,14.1,14.64
+TRIP-1196,Route D: South Dorms -> Sports Complex,5.44,08:34,High,25.1,26.7
+TRIP-1197,Route A: Main Gate -> North Hostels,1.53,08:19,High,9.54,10.86
+TRIP-1198,Route B: Central Library -> Academic Block Loop,-1.5,08:26,Low,9.13,8.36
+TRIP-1199,Route C: Railway Station -> Engineering Quad,8.78,10:55,Low,21.96,22.63
+TRIP-1200,Route D: South Dorms -> Sports Complex,1.74,18:35,High,8.4,8.93
