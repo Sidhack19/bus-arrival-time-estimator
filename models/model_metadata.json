@@ -1,0 +1,178 @@
+{
+  "best_model": "Polynomial Ridge (deg=2)",
+  "features": [
+    "route_distance_km",
+    "time_of_day",
+    "traffic_category",
+    "previous_travel_time_min"
+  ],
+  "target": "arrival_time_min",
+  "dataset_splits": {
+    "train_rows": 830,
+    "val_rows": 179,
+    "test_rows": 179,
+    "train_plus_val_rows": 1009
+  },
+  "data_quality": {
+    "total_rows": 1200,
+    "missing_target_rows": 6,
+    "invalid_distance_rows": 2,
+    "invalid_time_rows": 2,
+    "invalid_prev_time_rows": 2,
+    "invalid_target_rows": 0,
+    "invalid_traffic_rows": 0,
+    "duplicate_rows": 0,
+    "cleaned_rows": 1188,
+    "missing_feature_counts": {
+      "route_distance_km": 0,
+      "time_of_day": 0,
+      "traffic_category": 10,
+      "previous_travel_time_min": 18,
+      "arrival_time_min": 0
+    }
+  },
+  "model_comparison": [
+    {
+      "model": "Polynomial Ridge (deg=2)",
+      "cv_mae": 0.8937,
+      "cv_r2": 0.9663,
+      "train_mae": 0.8545,
+      "train_rmse": 1.1012,
+      "train_r2": 0.9706,
+      "val_mae": 0.9099,
+      "val_rmse": 1.1293,
+      "val_r2": 0.9718
+    },
+    {
+      "model": "Ridge Regression",
+      "cv_mae": 0.9945,
+      "cv_r2": 0.9551,
+      "train_mae": 0.9801,
+      "train_rmse": 1.3401,
+      "train_r2": 0.9565,
+      "val_mae": 0.9455,
+      "val_rmse": 1.2272,
+      "val_r2": 0.9667
+    },
+    {
+      "model": "Linear Regression",
+      "cv_mae": 0.9948,
+      "cv_r2": 0.955,
+      "train_mae": 0.9801,
+      "train_rmse": 1.3401,
+      "train_r2": 0.9565,
+      "val_mae": 0.9456,
+      "val_rmse": 1.2273,
+      "val_r2": 0.9667
+    },
+    {
+      "model": "Random Forest Regressor",
+      "cv_mae": 1.0968,
+      "cv_r2": 0.9417,
+      "train_mae": 0.7661,
+      "train_rmse": 1.1289,
+      "train_r2": 0.9691,
+      "val_mae": 1.051,
+      "val_rmse": 1.3296,
+      "val_r2": 0.9609
+    },
+    {
+      "model": "Naive Mean Baseline",
+      "cv_mae": 5.1036,
+      "cv_r2": -0.01,
+      "train_mae": 5.0962,
+      "train_rmse": 6.4222,
+      "train_r2": 0.0,
+      "val_mae": 5.1948,
+      "val_rmse": 6.7567,
+      "val_r2": -0.0102
+    }
+  ],
+  "test_metrics": {
+    "mae": 0.8852,
+    "rmse": 1.1211,
+    "r2": 0.9602
+  },
+  "test_confidence_intervals": {
+    "mae_95ci": [
+      0.7866,
+      0.9917
+    ],
+    "rmse_95ci": [
+      1.001,
+      1.2434
+    ]
+  },
+  "slice_metrics": {
+    "by_traffic": {
+      "Low": {
+        "mae": 0.8659,
+        "rmse": 1.1251,
+        "r2": 0.9381,
+        "count": 80
+      },
+      "Medium": {
+        "mae": 0.8745,
+        "rmse": 1.0494,
+        "r2": 0.972,
+        "count": 65
+      },
+      "High": {
+        "mae": 0.9551,
+        "rmse": 1.2491,
+        "r2": 0.9395,
+        "count": 33
+      }
+    },
+    "by_time_window": {
+      "Peak Hour": {
+        "mae": 0.9013,
+        "rmse": 1.1503,
+        "r2": 0.9486,
+        "count": 51
+      },
+      "Off-Peak": {
+        "mae": 0.8787,
+        "rmse": 1.1093,
+        "r2": 0.9612,
+        "count": 128
+      }
+    }
+  },
+  "feature_importance": [
+    {
+      "feature": "route_distance_km",
+      "importance": 0.3079
+    },
+    {
+      "feature": "previous_travel_time_min",
+      "importance": 0.2206
+    },
+    {
+      "feature": "route_distance_km previous_travel_time_min",
+      "importance": 0.1174
+    },
+    {
+      "feature": "route_distance_km traffic_category_ord",
+      "importance": 0.1114
+    },
+    {
+      "feature": "traffic_category_ord",
+      "importance": 0.0958
+    },
+    {
+      "feature": "previous_travel_time_min traffic_category_ord",
+      "importance": 0.0753
+    },
+    {
+      "feature": "previous_travel_time_min^2",
+      "importance": 0.0716
+    }
+  ],
+  "diagnostic_plots": [
+    "C:\\Users\\hp\\.gemini\\antigravity\\scratch\\bus-arrival-time-estimator\\reports\\figures\\target_distribution.png",
+    "C:\\Users\\hp\\.gemini\\antigravity\\scratch\\bus-arrival-time-estimator\\reports\\figures\\eda_relationships.png",
+    "C:\\Users\\hp\\.gemini\\antigravity\\scratch\\bus-arrival-time-estimator\\reports\\figures\\model_comparison.png",
+    "C:\\Users\\hp\\.gemini\\antigravity\\scratch\\bus-arrival-time-estimator\\reports\\figures\\actual_vs_predicted_and_residuals.png"
+  ]
+}
